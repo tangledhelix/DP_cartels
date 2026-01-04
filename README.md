@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
 
 ### Project manager notes ###
 

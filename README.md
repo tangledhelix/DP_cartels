@@ -15,6 +15,15 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
+* [ ] 005: right-justified signature
+* [ ] 006: ToC
+* [ ] 143: blockquote either in smallcaps or smaller all-caps font
+* [ ] 144: blockquote either in smallcaps or smaller all-caps font
+* [ ] 170: table
+* [ ] 171: left/center/right justified line? how to handle?
+    * left justify but add padding spaces? no table...
+    * 2 occurrences on this page
+* [ ] 267-278: index
 
 ### Project manager notes ###
 

@@ -17,6 +17,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
 * [ ] 005: right-justified signature
 * [ ] 006: ToC
+* [ ] 099: (and possibly elsewhere) use of subscript `_{}` notation
 * [ ] 143: blockquote either in smallcaps or smaller all-caps font
 * [ ] 144: blockquote either in smallcaps or smaller all-caps font
 * [ ] 170: table
@@ -96,6 +97,44 @@ follow the normal <a href="https://www.pgdp.net/wiki/DP_Official_Documentation:P
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+p. 42: changed “th” to “the” (complete control of the situation)
+
+p. 90: changed “violent” to “violet” (by ultra violet rays)
+
+p. 90: changed “Fleischman” to “Fleischmann” (irradiated yeast from Fleischmann)
+
+p. 109: changed “moxed” to “mixed” (tons of commercial mixed feed)
+
+p. 117: changed “Lo” to “La” (cooperated closely with La Forestal)
+
+p. 132: changed “entere dinto” to “entered into” (entered into a series)
+
+p. 143: changed “an dconsent” to “and consent” (civil complaint and consent decree)
+
+p. 154: changed “violatio nof” to “violation of” (violation of the antitrust laws)
+
+p. 157: changed “de-demands” to “demands” (satisfy the actual demands)
+
+p. 191: changed “hope” to “hoped” (It is to be hoped that)
+
+p. 205: changed “Sheriman” to “Sherman” (embodied in the Sherman Act)
+
+p. 206: changed “would would” to “would make” (would make such abuses impossible)
+
+p. 210: changed “every” to “ever” (which has ever faced the company)
+
+p. 229: changed “authortiy” to “authority” (Public authority must not be left)
+
+p. 229: changed “securtiy” to “security” (national security and national welfare)
+
+p. 231: changed “thees” to “these” (engaged in these practices)
+
+p. 243: changed “an dunlawful” to “and unlawful” (hidden and unlawful tax)
+
+p. 246: changed “say” to “stay” (stay out of important markets)
+
+p. 256: changed “ofr” to “of” (and fines of $59,003)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

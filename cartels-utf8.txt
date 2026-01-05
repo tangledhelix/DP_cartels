@@ -58,7 +58,7 @@ before known.
 
 How are we going to meet this challenge? At the outset, we
 must face frankly the greatest obstacle to making the most of
-our opportunity.[**missing stop added] It is the threat of cartel control of major
+our opportunity. It is the threat of cartel control of major
 world industries. Unless this threat is understood and dealt
 with decisively, our opportunity to realize the great potential
 benefits of a free economy will be lost. And worse still, the
@@ -247,7 +247,7 @@ conditioning the efficacy of a free market for performing its
 basic economic functions. To our comparative neglect of the
 incidence of these policies on the problem of maintaining healthful
 competitive conditions in industry must be attributed a large
-share of the responsibility for the difference between anti-trust[**elsewhere 'antitrust']
+share of the responsibility for the difference between anti-trust
 goal and business practice.
 
 In these circumstances, cartels--which, in effect, are trusts
@@ -410,7 +410,7 @@ before the war made the interruption of trade a cause of
 exceptional economic disturbance. The close relation between
 the manufacture of dyestuffs on the one hand and of explosives
 and poisonous gases on the other, moreover, has given the industry
-an exceptional significance....[**] It will ... be a policy of
+an exceptional significance.... It will ... be a policy of
 obvious prudence to make certain of the successful maintenance
 of many strong and well-equipped chemical plants. German
 chemical industry, with which we will be brought into competition,
@@ -1361,7 +1361,7 @@ and equipment which represent the last word in scientific development.
 Careful planning and rigorous adherence to the plans
 enabled Germany to have, in 1939, the most efficient war machine
 the world had ever seen. Now, after several years of
-feverish activity, the United Nations[**typo for 'States'?] have at last caught up with
+feverish activity, the United Nations have at last caught up with
 and passed Germany in the race for armament superiority.
 
 Now that our war effort has finally been put in high gear an
@@ -1652,7 +1652,7 @@ type, refusing many licenses whom we thought would be price
 cutters, and (b) We restricted their fields of manufacture, in
 each case, to certain specific articles, with the idea of preventing
 too much competition. (c) In order to retain more complete
-control of th[**typo for the] situation, we retained title to the machines and simply
+control of the situation, we retained title to the machines and simply
 leased them for a definite period of years, usually 8 or 10
 years, with the privilege of renewal of a smaller additional
 term."
@@ -2735,7 +2735,7 @@ profits for Summit out of sales of raw materials or even finished
 packages sent to foreign countries. <i>All I am interested in is to
 help Society in getting the business</i>, but we must have a certain
 rule as regards profits for Summit. The simplest way would
-be if Basle fixed a percentage profit over our price II[**P3: unclear?] on all
+be if Basle fixed a percentage profit over our price II on all
 -----File: 079.png---------------------------------------------------------
 products shipped in bulk to any foreign country. The same, of
 course, could apply to finished packages if we were to supply
@@ -3384,7 +3384,7 @@ The Foundation appears to be primarily interested in royalties,
 with little or no regard for the public interest. Article VII of
 the agreement of November 1, 1938, with the milk companies
 states that if "it should be found that the activation of unsweetened
-evaporated milk by ultra violent[**violet?] rays under this
+evaporated milk by ultra violet rays under this
 license is substantially harmful to the user of such milk, or to
 the milk itself, the licensee shall have the right to cancel this
 license."
@@ -3405,7 +3405,7 @@ with <i>substantial harm</i> and a <i>very serious medical objection</i>.
 Another instance of the Foundation's regard for the public
 interest was the Snider Packing Company matter. In 1931 the
 Snider Packing Company obtained irradiated yeast from
-Fleischman[**elsewhere: Fleischmann] to add to Snider's tomato juice. The results were
+Fleischmann to add to Snider's tomato juice. The results were
 -----File: 097.png---------------------------------------------------------
 apparently not too satisfactory. After this 1931 failure, Snider
 was persuaded to continue the license and the Foundation undertook
@@ -3489,7 +3489,7 @@ the synthetic Vitamin D field that undoubtedly they would be
 very much interested."
 
 Thus, in spite of the acknowledged physiological superiority
-of Vitamin D_{3}[**P3: unclear], the Foundation was reluctant to do any research
+of Vitamin D_{3}, the Foundation was reluctant to do any research
 whatever unless the willingness and cooperation of the
 licensees showed a definite promise of substantial profits.
 
@@ -4092,7 +4092,7 @@ for farm poultry ration on August 15, 1943 was $2.13 per
 hundred pounds. Dr. Harry Titus of the Poultry Nutrition
 Section of the Bureau of Animal Industries of the Department
 of Agriculture estimates that 25,000,000 tons of commercial
-moxed[** typo? mixed] feed are used annually in the poultry industry and that
+mixed feed are used annually in the poultry industry and that
 75% of this feed is fortified with Vitamin D.
 
 The wartime demands on meat make the poultry market unusually
@@ -4361,7 +4361,7 @@ eight per cent of the entire industry. Both of these producers
 have been ineffective in preventing La Forestal from carrying
 out its policy of restricted output and high prices, and International
 Products has in the past frequently cooperated closely
-with Lo[**typo La?] Forestal to further such a policy.
+with La Forestal to further such a policy.
 
 Since 1934 International Products Corporation has consulted
 with Tannin about the prices to be charged to quebracho extract
@@ -4875,7 +4875,7 @@ National Lead's foreign subsidiaries a preference in granting
 licenses.
 
 Following the execution of the duPont-National Lead
-Agreement in 1933, duPont entere dinto[**P3: entered into] a series of four contracts
+Agreement in 1933, duPont entered into a series of four contracts
 with Titan Company, Inc. By these agreements, duPont
 agreed to turn over all its foreign patents to the various foreign
 associates of Titan Company, Inc. The result was a virtual
@@ -5250,7 +5250,7 @@ Company of Rochester, New York.
 In March, 1940, Bausch and Lomb and Carl Zeiss were indicted
 for violation of the antitrust laws. Pleas of <i>nolo contendere</i>
 were made, fines paid and thus trial of the indictment was
-avoided. A civil complaint an dconsent[**P2: I suspect the prior two words were meant to be "and consent"] decree were filed in
+avoided. A civil complaint and consent decree were filed in
 July 1940. The investigations in connection with this case revealed
 the following:
 
@@ -5398,7 +5398,7 @@ on the other hand on more than one occasion weighed the de-*
 to keep Zeiss informed and decided in favor of the latter. Both
 parties were fully aware of the fact that such an agreement had
 to be kept secret. It was intended to give Zeiss a new lease on
-life and actually made it possible for tnat[**P3: that] concern to continue
+life and actually made it possible for that concern to continue
 its existence in spite of the disarming of Germany and its war
 partners. The contract bluntly stated: "The contracting parties
 agree to keep the foregoing agreement in strict confidence as regards
@@ -5434,7 +5434,7 @@ Commission, telephoned for me to come to Berlin. This I intended
 to do but upon reflection I thought it best for him to
 come here as the various instruments in which they are interested
 are here. He assented to this and was to come yesterday
-but was taken sick so in place sent his aid[**P3: aide?], Lieut. Culbert, U.
+but was taken sick so in place sent his aid, Lieut. Culbert, U.
 S. N., who was also accompanied by the Military represt. of the
 Am. Commission. What the Navy wants at once are: [enumerating
 range-finders, periscopes, sights and other similar
@@ -5669,7 +5669,7 @@ for strict secrecy as to the agreement was dropped out as being
 an innocuous provision that neither party has any claims against
 the other arising from previous agreements. This agreement of
 1926, along with the early agreements which it purported to
-supersede was declared in violation of[** Print typo "violatio nof" fixed] the antitrust laws by
+supersede was declared in violation of the antitrust laws by
 the decree entered by the court on July 9, 1940.
 
 The 1921 agreement and also those which were subsequently
@@ -5791,7 +5791,7 @@ ships</i> which demand special optical instruments.
 "We would ask that you intensively <i>find out at the proper
 places and that you communicate to us the different problems</i>,
 so that we are placed in a position to name you the necessary
-instruments which we also make new to satisfy the actual dedemands[**typo for demands?].
+instruments which we also make new to satisfy the actual demands.
 
 "We believe that thereby the business could be enlivened
 and also work could be created for you as well as us."
@@ -6324,7 +6324,7 @@ initiative, and I used the expression that the sixty per cent rate
 had, in reality, been doubled.
 
 "The essential consequence is that quality binoculars--and
-only those of more than 5 ×[**F2 no space in orig, and normal x] magnification, and of foreign net
+only those of more than 5× magnification, and of foreign net
 value of more than $12--have been affected by this measure.
 In reality, only Zeiss Binoculars fall under this arrangement,
 whereas all the cheap French prism binoculars, which are not
@@ -6762,7 +6762,7 @@ wrote to Lammot du Pont as follows:
 
 "I have warned my people that no fiscal alterations in the
 -----File: 190.png---------------------------------------------------------
-U. S. A.[** modern usage no spaces?] must be allowed to affect the interpretation to be
+U. S. A. must be allowed to affect the interpretation to be
 placed on our Patents and Processes Agreement, and the working
 out of the co-operation for which the Agreement provides....
 I find it is a good thing to issue such warnings ... so that
@@ -7027,7 +7027,7 @@ in a document found in their files: "The patents have not
 so long to run and if it becomes a marketable commodity by our
 pushing it, once the patents are out--as in the case of book-*matches--it
 would be a fertile field for the rottenest kind of
-competition. It is to be hope[**?typo for hoped?] that if the item is not put out and
+competition. It is to be hoped that if the item is not put out and
 pushed by a strong manufacturer, no one else will take it up
 even if the patents expire."
 
@@ -7232,7 +7232,7 @@ of the Sherman Antitrust Law, and if it became the law of
 the land and these associations were authorized they would at
 once seek to control the foreign market and probably enter into
 a combination with foreign companies and cartels engaged in the
-same line of business and thus reenforced[**typo for reinforced?] and worldwide in their
+same line of business and thus reenforced and worldwide in their
 control of products they would reduce the prices of food animals,
 of grain, and of other products and raise the prices to the
 consumer when it suited their purposes."
@@ -7408,7 +7408,7 @@ Calkex together exported 95% of the alkalis exported from the
 United States. Since then, because of war conditions and the
 resignation of Solvay from Alkasso in 1941, the alkalis exported
 by the two associations have amounted to 75% of the total alkali
-exports from the U. S.[**?is the space required?]
+exports from the U. S.
 
 It is charged that beginning in 1924 and continuing to the
 present day the defendants have engaged in an unlawful combination
@@ -7425,7 +7425,7 @@ refrain from importing alkalis into the United States;
 
 (2) That Alkasso, Calkex and their respective members be
 assigned certain marketing areas as their exclusive territory (including
-the U. S.[**?Is the space necessary?]) and that ICI, I. G. Farben and Belgian Solvay
+the U. S.) and that ICI, I. G. Farben and Belgian Solvay
 refrain from exporting alkalis to such territory and prevent
 other European manufacturers from doing so;
 
@@ -7539,7 +7539,7 @@ toward antitrust law enforcement is predicated, frankly, not
 on a passive interest in the matter--a grudging willingness to
 perform an unwelcome duty--but on a deep conviction that
 Congress is right, and that the public economic policy embodied
-in the Sheriman[**?typo for Sherman in manuscript] Act is basically sound.
+in the Sherman Act is basically sound.
 
 So long as the conditions which gave rise to the Webb Act
 still exist, the Act, if properly employed, may be useful in promoting
@@ -7574,7 +7574,7 @@ feel that export associations, operating under the cloak
 of the Webb Act, may be used to carry American industries into
 private international cartels which operate contrary to our public
 policy, and that serious consideration should be given now to
-legislation that would would[**printer error, duplicate word?][**P3: missing word? make?] such abuses impossible.
+legislation that would make such abuses impossible.
 
 But at present, I am not ready to believe that additional legislation
 is necessary. Vigilant enforcement of the Sherman Act
@@ -7692,7 +7692,7 @@ Mannheim, Germany, on March 28, 1926, to Walter Teagle,
 president of Standard Oil, the following:
 
 "Based upon my observations and discussion today, I think
-that this matter is the most important which has every[**ever] faced
+that this matter is the most important which has ever faced
 the company since the dissolution.
 -----File: 217.png---------------------------------------------------------
 
@@ -7710,7 +7710,7 @@ catalytic conversion of the crude into motor fuel.
 <tb>
 
 "I shall not attempt to cover any details, but I think this
-will be evidence of my state of mind[**P3: . ?]"
+will be evidence of my state of mind."
 
 Standard Oil was worried about its monopoly position. The
 discovery threatened competition and Standard Oil met the
@@ -8368,12 +8368,12 @@ States and other countries, German producers of military equipment
 were able to nullify the application of the conditions imposed
 by the Treaty.
 
-Public authortiy[**typo for authority?] must not be left in the position of having
+Public authority must not be left in the position of having
 to work in ignorance. Only by compelling the official acknowledgement
 and registration of the existence and provisions of
 agreements which affect our foreign and domestic commerce can
 government acquaint itself with the arrangements which have
-been made and which affect so vitally national securtiy[**typo for security?] and national
+been made and which affect so vitally national security and national
 welfare.
 
 During the present war one of the most serious problems
@@ -8446,7 +8446,7 @@ questions which can only be resolved by constituted government.
 This is a responsibility which I believe businessmen
 should not undertake, and one which I believe that they do not
 wish to undertake. Even those businessmen who have engaged
-in thees[**typo for these?] practices would be shocked to realize the implications
+in these practices would be shocked to realize the implications
 of their acts. At the time they were operating in this manner
 they never thought in political terms, but rather in terms of
 the local market. Once operating in the international market,
@@ -8858,7 +8858,7 @@ when he can collect a hidden tax every year. No doubt after
 this war, it will be argued that synthetic nitrogen capacity should
 go unused by agreement between the large companies. We
 should remember that if this is done, as with all cartel agreements,
-there is a hidden an dunlawful[**P3: and unlawful] tax; in this case it would
+there is a hidden and unlawful tax; in this case it would
 be the American farmers who would pay.
 
 I do not revive this synthetic nitrogen story in order to make
@@ -8956,7 +8956,7 @@ which wishes to engage in trade and commerce in the future
 industrial era must develop its own laboratories and encourage
 its own domestic research. It has sometimes been suggested that
 the reason why some of our larger American companies entered
-into agreements to say[**P3: stay] out of important markets such as Latin
+into agreements to stay out of important markets such as Latin
 America was because such was the price they had to pay to
 get the benefits of European research. It has sometimes even
 been suggested that we have been dependent upon European
@@ -9201,7 +9201,7 @@ December 19, 1941; pending on preliminary motions.
 
 <i>Fertilizer</i>: American Potash & Chemical Corp., et al.; complaint
 filed May 15, 1940; consent decree entered May 21,
-1940;[** should be period?] Chilean Nitrate Sales Corp., et al.; indictment returned
+1940. Chilean Nitrate Sales Corp., et al.; indictment returned
 September 1, 1939; dismissed as to 18 defendants June 3,
 1941 to August 28, 1942; pleas of nolo contendere by 6 defendants
 August 28, 1942; fines levied totalling $35,000. Allied
@@ -9315,7 +9315,7 @@ Departments.
 et al.; complaint filed December 20, 1943; pending on preliminary
 motions. The Tannin Corporation, et al.; indictment
 returned November 24, 1942; pleas of nolo contendere and
-fines ofr[**typo] $59,003, January 12, 1943 and April 19, 1943; dismissed
+fines of $59,003, January 12, 1943 and April 19, 1943; dismissed
 as to the remaining defendants, August 24, 1943.
 
 <i>Titanium Compounds</i>: National Lead Company, et al.; indictment
@@ -9450,7 +9450,7 @@ Oualid, William, <i>International Raw Materials Cartels</i>, Paris,
 Piotrowski, Roman, <i>Cartels and Trusts</i>, London, 1933.
 
 Plummer, Alfred, <i>International Combines in Modern Industry</i>,
-London, 1938[**.]
+London, 1938.
 
 Pribram, Karl, <i>Cartel Problems</i>, Washington, 1935.
 
@@ -9588,7 +9588,7 @@ Ayerst, McKenna and Co., 89
 
 Badische Anilin und Sodafabrik A.G., 211
 
-Barkey, J. A.,[**,|F2: added; format guidelines would have us add these in anyway] 121
+Barkey, J. A., 121
 
 Barney, L. D., 85, 87, 97, 100, 104
 
@@ -9610,9 +9610,9 @@ Bausch, Carl L., 155
 
 Bausch, Dr. Edward, 154, 165, 166, 170, 171
 
-Bayer,[**,?] 205 (See Germanin), 55
+Bayer, 205 (See Germanin), 55
 
-Bayer Co., Inc.,[**,] 256
+Bayer Co., Inc., 256
 
 Bayliss, 60
 
@@ -9754,7 +9754,7 @@ D.E.N., 241
 -----File: 270.png---------------------------------------------------------
 /*
 
-Deutsche Gold-und-Silber Scheidenstalt[**?], 215
+Deutsche Gold-und-Silber Scheidenstalt, 215
 
 Diabetes, 52, 53, 57
 
@@ -9915,7 +9915,7 @@ Hormones, 58, 59, 60, 61, 67, 69, 72, 74, 76, 254
 
 Horton, Ralph, 103
 
-House Judiciary Committee,[**,] 196, 198
+House Judiciary Committee, 196, 198
 
 Howard, Frank, 210
 
@@ -10000,7 +10000,7 @@ Kreuger, Ivar, 187, 188, 189, 190
 Krupp Works (Germany), 42
 
 
-La Chaquena, S. A.[**S.A. ?], 120
+La Chaquena, S. A., 120
 
 La Forestal Argentina, S.A., 114, 117, 118
 
@@ -10247,7 +10247,7 @@ Remington Arms Co., 179, 183, 217
 
 Resins, synthetic, 184
 
-Rheinische Westfalische[**Westfälische?] Sprengstoff, 217
+Rheinische Westfalische Sprengstoff, 217
 
 Rickets, 57, 82, 98
 
@@ -10304,7 +10304,7 @@ Snider Packing Co., 90, 91
 
 Societe de Products Chemiques des Terres Rares, 130
 
-Society of Chemical Industry (Basle),[**,] 61, 72
+Society of Chemical Industry (Basle), 61, 72
 
 Soda ash, 201
 

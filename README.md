@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
+* [x] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
 * [ ] 005: right-justified signature
 * [ ] 006: ToC
 * [ ] 099: (and possibly elsewhere) use of subscript `_{}` notation

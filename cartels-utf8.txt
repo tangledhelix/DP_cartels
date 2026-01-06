@@ -2,7 +2,7 @@
 
 
 
-/*
+/X
 CARTELS
 
 Challenge to a Free World
@@ -14,12 +14,12 @@ Challenge to a Free World
 <i>Public Affairs Press</i>
 
 WASHINGTON, D. C.
-*/
+X/
 
 
 
 
-/*
+/X
 <i>To My Father</i>
 
 GEORGE W. BERGE
@@ -29,13 +29,12 @@ guided by the conviction that the people's rights
 are not won without struggle and will not
 be maintained without vigilance</i>.
 
-
 <i>Public Affairs Press, 2153 Florida Ave., Washington, D. C.</i>
 
 <i>Copyright, 1946, by American Council on Public Affairs</i>
 
 <i>M. B. Schnapper, Executive Secretary and Editor</i>
-*/
+X/
 
 
 
@@ -147,7 +146,7 @@ involved.
 CONTENTS
 
 
-/*
+/X
 <i>1</i>: Trusts to Cartels                                  1
 
 <i>2</i>: Enterprise Eclipsed                               10
@@ -181,7 +180,7 @@ CONTENTS
 <i>Appendix II</i>: Bibliography                           257
 
 Index                                               261
-*/
+X/
 
 
 

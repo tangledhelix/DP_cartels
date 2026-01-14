@@ -15,6 +15,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [x] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
+* [ ] chapter headers are partly in italic text?
 * [ ] 005: right-justified signature
 * [ ] 006: ToC
 * [ ] 099: (and possibly elsewhere) use of subscript `_{}` notation
@@ -108,6 +109,8 @@ p. 109: changed “moxed” to “mixed” (tons of commercial mixed feed)
 
 p. 117: changed “Lo” to “La” (cooperated closely with La Forestal)
 
+p. 127: changed “Jebson” to “Jebsen” (National Lead and Jebsen organized)
+
 p. 132: changed “entere dinto” to “entered into” (entered into a series)
 
 p. 143: changed “an dconsent” to “and consent” (civil complaint and consent decree)
@@ -135,6 +138,8 @@ p. 243: changed “an dunlawful” to “and unlawful” (hidden and unlawful ta
 p. 246: changed “say” to “stay” (stay out of important markets)
 
 p. 256: changed “ofr” to “of” (and fines of $59,003)
+
+p. 262: changed “Scheidenstalt” to “Scheideanstalt” (Deutsche Gold-und-Silber Scheideanstalt)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

@@ -103,6 +103,8 @@ follow the normal <a href="https://www.pgdp.net/wiki/DP_Official_Documentation:P
 
 Text version should mention the subscript syntax `D_{3}`
 
+Text version - smallcaps to allcaps
+
 p. 42: changed “th” to “the” (complete control of the situation)
 
 p. 90: changed “violent” to “violet” (by ultra violet rays)

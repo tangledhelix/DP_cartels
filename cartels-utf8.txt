@@ -2840,7 +2840,7 @@ corresponding proceedings are intended in the paranephros
 obtain the basic patent claims. In accordance with the opinion
 expressed here since Ciba gives its consent already in the letter
 of March 9, 1939 to transfer the basic application in which the
-patent claims for paranephros are established (Case 1577/1-4)
+patent claims for paranephros are established (Case 1577/1–4)
 to Roche-Organon, that however, is dependent upon corresponding
 proceedings of the Organon in the male hormone field.”
 
@@ -4825,7 +4825,7 @@ immediately after the war.
 The only remaining country of any commercial consequence
 was Japan. By virtue of the European cartel agreements, the
 Japanese market had been assigned to the Titangesellschaft and
-to the Blumenfeld French company in the ratio of 70-30. The
+to the Blumenfeld French company in the ratio of 70–30. The
 Titan Co., Inc., owning 50% of Titangesellschaft, profited by
 this arrangement. From the time of the execution of these
 agreements until 1937, the Japanese market was supplied with
@@ -4859,7 +4859,7 @@ to purchase these shares at any subsequent time.
 Because of German participation in the Japanese Titanium
 Company, the British Government refused to permit titanium
 from Travancore, India, to be exported to Japan in the fall and
-winter of 1940-41. Titanium was badly needed in Japan and
+winter of 1940–41. Titanium was badly needed in Japan and
 the Japanese government had not permitted any titanium pigments
 to be exported for a long time. Knowing this and in
 spite of the fact that the situation in this country was very serious
@@ -6538,7 +6538,7 @@ each company made new products, they were brought into the
 conspiracy.
 
 The complaint cited as an example of the functioning of the
-conspiracy that during the period 1920-29, du Pont tried to
+conspiracy that during the period 1920–29, du Pont tried to
 protect ICI from the competition of American cartridge companies
 by withdrawing from these companies discounts and rebates
 in connection with the sale of powder so that they might
@@ -9128,7 +9128,7 @@ Industriellen Zusammenschlusses</i>, Berlin, 1931.
 Hexner, Ervin, <i>The International Steel Cartel</i>, Chapel Hill,
 1943.
 
-Hodson, H. V., <i>Slump and Recovery</i>, 1929-37, London,
+Hodson, H. V., <i>Slump and Recovery</i>, 1929–37, London,
 New York, Toronto, 1938.
 
 Holland, W. L., Editor, <i>Commodity Control in the Pacific
@@ -9264,7 +9264,7 @@ Alien Property Custodian, 34, 59, 64, 76, 81, 125, 140, 143, 178, 200, 219, 220,
 
 Alig Agreement, 222
 
-Alkasso (See United States Alkali Export Ass’n.), 193, 199-204, 252
+Alkasso (See United States Alkali Export Ass’n.), 193, 199–204, 252
 
 Allied Chemical and Dye, 181, 253
 
@@ -9272,13 +9272,13 @@ Allies, 215, 240
 
 Aluminum, 11, 33, 221, 222, 236, 253
 
-Aluminum Co. of America, 221-225, 253, 255
+Aluminum Co. of America, 221–225, 253, 255
 
 Aluminum production, French, 6
 
 American Bosch Corp., 254
 
-American Magnesium Corp., 221-223, 255
+American Magnesium Corp., 221–223, 255
 
 American Medical Ass’n., 90, 106
 
@@ -9294,7 +9294,7 @@ Antitrust Division of Dept, of Justice, 35, 83
 
 Antitrust laws, 38, 48, 58, 77, 130, 154, 176, 198, 205, 250, 251
 
-Argentina, 71, 113-115, 119, 165, 176, 183, 184
+Argentina, 71, 113–115, 119, 165, 176, 183, 184
 
 Armistice, 215
 
@@ -9333,7 +9333,7 @@ Bauer, K. A., 173
 
 Bausch and Lomb G.m.b.H. Frankfort-on-the Main, 155
 
-Bausch and Lomb Optical Co. (Rochester), 24, 142-175, 255
+Bausch and Lomb Optical Co. (Rochester), 24, 142–175, 255
 
 Bausch, Carl L., 155
 
@@ -9347,7 +9347,7 @@ Bayliss, 60
 
 Belgian Congo, 1
 
-Belgian Solvay (See Solvay et Cie), 202-204
+Belgian Solvay (See Solvay et Cie), 202–204
 
 Bell Laboratories, 21
 
@@ -9355,13 +9355,13 @@ Bell System, 22
 
 Bendix Aviation Corp., 218, 252
 
-Berst-Forster-Dixfield Co., 185-189, 191
+Berst-Forster-Dixfield Co., 185–189, 191
 
 Beryllium, 34, 47, 220
 
 Beryllium Corp. of America, 220
 
-Binoculars, 143, 166, 170-174
+Binoculars, 143, 166, 170–174
 
 Blacklisting, 101
 
@@ -9369,7 +9369,7 @@ Blumenfeld, Joseph, 127, 129
 
 Bobst, Elmer H., 254
 
-Boehringer and Sons, C. F. (Mannheim), 61, 74-76
+Boehringer and Sons, C. F. (Mannheim), 61, 74–76
 
 Bombsights, 144, 156
 
@@ -9402,9 +9402,9 @@ Buna, 212
 Buttle, N. A., 101
 
 
-California Alkali Export Ass’n., 193, 199-204
+California Alkali Export Ass’n., 193, 199–204
 
-Canada, 16, 79, 132, 176-178, 181, 186, 187, 190, 203, 217, 218, 225
+Canada, 16, 79, 132, 176–178, 181, 186, 187, 190, 203, 217, 218, 225
 
 Canadian Industries Ltd., 134, 181, 184, 225
 
@@ -9418,7 +9418,7 @@ Casado extract, 118
 
 Chamberlain, Joseph, 5
 
-Chemical and Pharmaceutical Enterprises, Ltd., 64, 68-70
+Chemical and Pharmaceutical Enterprises, Ltd., 64, 68–70
 
 Chemical Marketing Co., 215
 
@@ -9426,7 +9426,7 @@ Chemical pharmaceutical industry, 54
 
 Chemicals, 253
 
-Chepha, 64, 68-70
+Chepha, 64, 68–70
 
 Chilean Nitrate Sales Corp., 253
 
@@ -9438,7 +9438,7 @@ Cholesterol, 89, 110
 
 Church and Dwight, Inc., 200, 202
 
-Ciba (Basle) (See Society of Chemical Industry (Basle)), 61, 72-81
+Ciba (Basle) (See Society of Chemical Industry (Basle)), 61, 72–81
 
 Ciba Pharmaceutical Products, Inc., 72, 254
 
@@ -9473,7 +9473,7 @@ Davis, Charles Krum, 179
 
 Davis and Co., R. B., 89
 
-Delta Pharmaceutical Corp., 69-71
+Delta Pharmaceutical Corp., 69–71
 
 D.E.N., 241
 
@@ -9483,19 +9483,19 @@ Diabetes, 52, 53, 57
 
 Diamond Alkali Co., Inc., 200, 202
 
-Diamond Match Co., 185-191, 255
+Diamond Match Co., 185–191, 255
 
 Dodds, E. C., 80
 
 Doitsu Senryo Gomei Kaisha, 135
 
-Dow Chemical Co., Inc., 200, 202, 221-225, 255
+Dow Chemical Co., Inc., 200, 202, 221–225, 255
 
 Drisdol, 103
 
 Duisberg, Carl, 232
 
-du Pont de Nemours and Co., E. I., 24, 124, 125, 130-134, 140, 141, 179-185, 218, 225-227, 241, 244, 245, 256
+du Pont de Nemours and Co., E. I., 24, 124, 125, 130–134, 140, 141, 179–185, 218, 225–227, 241, 244, 245, 256
 
 du Pont, Lammot, 179, 183, 226
 
@@ -9506,7 +9506,7 @@ Dyestuffs, 6, 30, 43, 184, 214, 215, 253
 Dynamit Aktiengesellschaft, 182
 
 
-Economy, American, 36-39, 51
+Economy, American, 36–39, 51
 
 Eddy Match Co., Ltd., 185, 190
 
@@ -9526,7 +9526,7 @@ Engi, Dr. Joseph, 78
 
 Ephedrine, 92
 
-Ergosterol, 89-93, 103, 104, 111
+Ergosterol, 89–93, 103, 104, 111
 
 Ergosterol, Irradiated, 98
 
@@ -9537,7 +9537,7 @@ Ethyl Gasoline Corp., 24, 25, 26, 27
 Explosives Industries, Ltd., 182
 
 
-Fairburn, William A., 185-189
+Fairburn, William A., 185–189
 
 Falkland Islands, 240
 
@@ -9574,7 +9574,7 @@ General Baking Co., 104, 105
 
 General Dyestuff Corp., 253
 
-General Electric Co., 42-45, 237, 254, 257
+General Electric Co., 42–45, 237, 254, 257
 
 General Mills, 93, 104
 
@@ -9586,7 +9586,7 @@ George, Lloyd, 5, 6
 
 Germanin (See Bayer 205), 55
 
-Germany, 5, 14, 15, 22-27, 33, 62, 64, 129, 135, 138, 142-147, 151, 161, 166, 175, 176, 182, 210-215, 219-221, 224, 227, 228, 231, 232, 235, 240, 246, 247
+Germany, 5, 14, 15, 22–27, 33, 62, 64, 129, 135, 138, 142–147, 151, 161, 166, 175, 176, 182, 210–215, 219–221, 224, 227, 228, 231, 232, 235, 240, 246, 247
 
 Glass container industry, 41, 42
 
@@ -9604,7 +9604,7 @@ Gordon Corp., William, 185, 187, 191
 
 Graham crackers, 89
 
-Great Britain, 14-17, 80, 132, 166, 216, 217, 224, 235, 237, 240
+Great Britain, 14–17, 80, 132, 166, 216, 217, 224, 235, 237, 240
 
 Grecian Navy Dept., 149
 
@@ -9621,7 +9621,7 @@ Hayfever, 91
 
 Hess, Donald P., 254
 
-Hitler, Adolf, 142, 143, 146, 150, 154-159, 162
+Hitler, Adolf, 142, 143, 146, 150, 154–159, 162
 
 Hoffman-La Roche, Inc., 73, 74
 
@@ -9646,11 +9646,11 @@ Hydrogenation, 22
 Hydrogenation plants, 23
 
 
-I. G. Farbenindustrie, 24, 25-27, 54, 84, 88, 124, 125, 129-132, 135, 137, 141, 180, 181, 184, 186, 190, 201-204, 211-213, 216-225, 228, 229, 232, 241, 255
+I. G. Farbenindustrie, 24, 25–27, 54, 84, 88, 124, 125, 129–132, 135, 137, 141, 180, 181, 184, 186, 190, 201–204, 211–213, 216–225, 228, 229, 232, 241, 255
 
 Illinois, University of, 91
 
-Imperial Chemical Industries, 125, 132, 133, 179-185, 199, 203, 204, 225-227, 241, 245, 253
+Imperial Chemical Industries, 125, 132, 133, 179–185, 199, 203, 204, 225–227, 241, 245, 253
 
 Imperial Chemical Industries (N. Y.), Ltd., 200, 201, 204
 
@@ -9672,14 +9672,14 @@ Interflash Signal Corp., 148
 
 International Match, 189
 
-International Products Corp., 114, 117, 119-122
+International Products Corp., 114, 117, 119–122
 
 International Standard Electric Corp., 167
 
 
 Jackson Laboratory (du Pont’s), 31
 
-Japan, 118, 129, 132-136, 186, 190
+Japan, 118, 129, 132–136, 186, 190
 
 Japanese Titanium Co., 135
 
@@ -9733,7 +9733,7 @@ Larson, W. N., 100
 
 Lasdon, W. S., 75
 
-Latin America, 12, 13, 68-71, 176, 214
+Latin America, 12, 13, 68–71, 176, 214
 
 Les Laboratories Francais de Chimiotherapie (See Chimio (France)), 61, 76
 
@@ -9751,7 +9751,7 @@ Literary Digest, 166
 
 Lithopone, 126, 140, 141
 
-Lomb, August, 155-161, 170
+Lomb, August, 155–161, 170
 
 Lomb, Carl, 154, 165
 
@@ -9766,7 +9766,7 @@ Magnesite Brick, 255
 
 Magnesit Industrie Aktiengesellschaft, 255
 
-Magnesium, 11, 34, 214, 220-224, 236, 237, 255
+Magnesium, 11, 34, 214, 220–224, 236, 237, 255
 
 Magnesium Development Co., 222
 
@@ -9778,13 +9778,13 @@ Mathieson Alkali Works, Inc., 200, 202
 
 McGowan, Harry Duncan, 179, 181, 183, 226
 
-Meade-Johnson and Co., 94, 95, 96, 99-101
+Meade-Johnson and Co., 94, 95, 96, 99–101
 
 Medical Research Council, 80
 
 Meinhardt, 231
 
-Merck and Co., Inc. (N. J.), 76, 176-178, 256
+Merck and Co., Inc. (N. J.), 76, 176–178, 256
 
 Merck, E. (Darmstadt, Germany), 76, 176, 177, 178
 
@@ -9823,13 +9823,13 @@ Narcotics, 55, 178
 
 Nathan and Co., Joseph (Great Britain), 84, 88
 
-National Lead Co., 124-137, 140, 257
+National Lead Co., 124–137, 140, 257
 
 National Titanium Pigments Co., Ltd., 133
 
-Navy, U. S., 143, 147, 148, 158, 163, 164, 166, 170-174
+Navy, U. S., 143, 147, 148, 158, 163, 164, 166, 170–174
 
-Nederlandsche Instrumenten Compagnie (Nedinsco), 149-153, 157-158, 167
+Nederlandsche Instrumenten Compagnie (Nedinsco), 149–153, 157–158, 167
 
 Neoprene, 184
 
@@ -9845,7 +9845,7 @@ Nieuwe Nederlandsche Maatschappij Tot Vervaardigen Van Spiegelglas N.V., 254
 
 Nitrate of soda, 240, 241, 242
 
-Nolo contendere, 113, 142, 254-256
+Nolo contendere, 113, 142, 254–256
 
 Norsk Hydro, 241
 
@@ -9889,7 +9889,7 @@ Paper, newsprint, 256
 
 Paraguay, 113
 
-Parke-Davis and Co., 94-97
+Parke-Davis and Co., 94–97
 
 Patent Office, U. S., 77, 170
 
@@ -9897,7 +9897,7 @@ Patent system, 3, 6, 36, 37, 38, 47, 48, 51
 
 Patents and processes agreement, 184, 225, 226
 
-Patents, 5, 36-47, 53, 56, 59, 64-66, 77, 83, 85, 86, 92, 128, 130, 133, 136, 139, 140, 162, 184, 190, 191, 220
+Patents, 5, 36–47, 53, 56, 59, 64–66, 77, 83, 85, 86, 92, 128, 130, 133, 136, 139, 140, 162, 184, 190, 191, 220
 
 Pearl Harbor, 34, 36, 70, 175, 212
 
@@ -9938,7 +9938,7 @@ Pyridium Corp., 75
 
 Quaker Oats, 89
 
-Quebracho, 112-123, 256
+Quebracho, 112–123, 256
 
 Quinine derivatives, 55, 229, 230, 249
 
@@ -9961,7 +9961,7 @@ Rickets, 57, 82, 98
 
 Robinson, E. G., 111
 
-Roche-Organon, Inc., 74, 78-81, 254
+Roche-Organon, Inc., 74, 78–81, 254
 
 Rohm and Haas (Darmstadt, Germany), 24
 
@@ -9971,7 +9971,7 @@ Ross, Ward, 85, 91, 97, 100, 102, 104, 105
 
 Rossi, Dr. A. J., 126
 
-Russell, Dr. Henry L., 85, 90, 91, 92, 96-100, 105
+Russell, Dr. Henry L., 85, 90, 91, 92, 96–100, 105
 
 Russia, 186, 190
 
@@ -9986,9 +9986,9 @@ Samuhi, S. A., 117, 118, 120, 122
 
 Saraka, 66, 69
 
-Schering A. G. (Berlin), 61-71, 74, 77, 79, 80, 227
+Schering A. G. (Berlin), 61–71, 74, 77, 79, 80, 227
 
-Schering Corp. (Bloomfield, N. J.), 64-69, 73, 76, 77, 79, 80, 227, 245
+Schering Corp. (Bloomfield, N. J.), 64–69, 73, 76, 77, 79, 80, 227, 245
 
 Schering, Ltd., (London), 68
 
@@ -10000,7 +10000,7 @@ Shangri-La, 238
 
 Sherka Chemical Co., 69
 
-Sherman Act, 1, 13, 16, 37, 179, 185, 191, 193-199, 202, 205, 206, 234, 250
+Sherman Act, 1, 13, 16, 37, 179, 185, 191, 193–199, 202, 205, 206, 234, 250
 
 Siemens-Halske Co., 218, 220, 237
 
@@ -10038,7 +10038,7 @@ Sperti, George, 95
 
 Sprague Steamship Co., 121
 
-Squibb and Sons, E. R., 95-97
+Squibb and Sons, E. R., 95–97
 
 Squibb’s Viosterol, 94
 
@@ -10048,7 +10048,7 @@ Standard Brands, Inc., 87, 89, 103, 107, 108
 
 Standard-I. G. Corp., 219, 220
 
-Standard Oil Co. (New Jersey), 22, 24, 26, 210-213, 219, 228, 253
+Standard Oil Co. (New Jersey), 22, 24, 26, 210–213, 219, 228, 253
 
 Standards, Bureau of, 145
 
@@ -10056,7 +10056,7 @@ Standard Telephone and Cables, Ltd., 167
 
 Starling, 60
 
-Steenbock patents, 84-87, 90, 92, 99, 107, 108
+Steenbock patents, 84–87, 90, 92, 99, 107, 108
 
 Sterols, 89, 109, 111
 
@@ -10072,9 +10072,9 @@ Sulfa drugs, 55, 178
 
 Sullivan, John B., 114, 116, 119
 
-Svenska Tandsticks Aktiebolaget (See Swedish Match Co.), 185-190
+Svenska Tandsticks Aktiebolaget (See Swedish Match Co.), 185–190
 
-Swedish Match Co. (See Svenska Tandsticks Aktiebolaget), 185-190
+Swedish Match Co. (See Svenska Tandsticks Aktiebolaget), 185–190
 
 Swiss Bank Corp. (Basle), 68, 70, 254
 
@@ -10093,9 +10093,9 @@ Tanks, 157
 
 Tannic, acid, 114
 
-Tannin Corp. (N. Y.), 114-116, 120, 122, 256
+Tannin Corp. (N. Y.), 114–116, 120, 122, 256
 
-Tannin Products Corp. (Dela.), 115-116
+Tannin Products Corp. (Dela.), 115–116
 
 Teagle, Walter, 210
 
@@ -10105,15 +10105,15 @@ Tetrazene primed ammunition, 217
 
 Thyroid, 66
 
-Titan Co. A/S, 127-129, 139
+Titan Co. A/S, 127–129, 139
 
-Titan Co., Inc., 124, 127, 132-139
+Titan Co., Inc., 124, 127, 132–139
 
-Titangesellschaft, G.m.b.H., 129, 132-139
+Titangesellschaft, G.m.b.H., 129, 132–139
 
 Titanium Alloy Manufacturing Co., 126
 
-Titanium Pigment Co., 126-130
+Titanium Pigment Co., 126–130
 
 Titan Kogyo Kaisha, Ltd., 135, 136
 
@@ -10136,7 +10136,7 @@ United American Bosch Corp., 214
 
 United Nations, 16, 20, 33, 175, 247
 
-United States Alkali Export Ass’n, 193, 199, 201-204, 252
+United States Alkali Export Ass’n, 193, 199, 201–204, 252
 
 United States Army, 143, 147, 158, 160, 166
 
@@ -10149,11 +10149,11 @@ Veitscher Magnesitwerke Aktiengesellschaft, 255
 
 Vernon-Benshoff Co. (Pittsburgh), 29, 30
 
-Versailles Treaty, 142-153
+Versailles Treaty, 142–153
 
-Viosterol, 91-94, 97, 98, 100, 103
+Viosterol, 91–94, 97, 98, 100, 103
 
-Vitamin D, 82-87, 90-99, 103-111
+Vitamin D, 82–87, 90–99, 103–111
 
 Vitamins, 55, 60, 92, 178
 
@@ -10172,7 +10172,7 @@ War Department, U. S., 167
 
 Wardenburg, 227
 
-Webb Act, 192-196, 199, 205-207
+Webb Act, 192–196, 199, 205–207
 
 Webb, Congressman, 196, 197, 198
 
@@ -10198,11 +10198,11 @@ Wilson, Woodrow, 7, 193
 
 Winnipeg Free Press, 17
 
-Winthrop Chemical Co., 95-97, 101, 103
+Winthrop Chemical Co., 95–97, 101, 103
 
-Wisconsin Alumni Research Foundation, 82-111
+Wisconsin Alumni Research Foundation, 82–111
 
-Wisconsin, University of, 82-85
+Wisconsin, University of, 82–85
 
 World War I, 39, 126, 144, 151, 186, 187, 215, 228, 239, 240
 
@@ -10211,5 +10211,5 @@ WPA, 239
 Wyandotte Chemicals Corp., 200
 
 
-Zeiss, Carl, 24, 142-156, 159-164, 168-175, 255
+Zeiss, Carl, 24, 142–156, 159–164, 168–175, 255
 I/

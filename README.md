@@ -16,10 +16,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 * [x] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
 * [ ] Chapter headers are partly in italic text?
-* [ ] A lot of use of `c` to mean `cents`. Replace with `¢`? PM is OK with it.
+* [x] Some use of `c` to mean `cents`. Replace with `¢`? PM is OK with it.
 * [ ] 005: right-justified signature
 * [ ] 006: ToC
-* [ ] 099: (and possibly elsewhere) use of subscript `_{}` notation
+* [ ] 099: use of subscript `_{}` notation
 * [ ] 143: blockquote either in smallcaps or smaller all-caps font
 * [ ] 144: blockquote either in smallcaps or smaller all-caps font
 * [ ] 154: (HTML) abbr "represt." short for "representative"
@@ -100,6 +100,8 @@ follow the normal <a href="https://www.pgdp.net/wiki/DP_Official_Documentation:P
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+Text version should mention the subscript syntax `D_{3}`
 
 p. 42: changed “th” to “the” (complete control of the situation)
 

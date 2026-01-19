@@ -1510,7 +1510,7 @@ States and other countries.
 global war have demonstrated conclusively that the interests of
 hostile countries have been able to use patents as weapons in
 economic warfare against the United States. By delaying the
-development of strategic new industries, by withholding know-*how,
+development of strategic new industries, by withholding know-how,
 and by strangling the market with exorbitant prices for
 critical materials, monopoly groups in aggressor nations have
 sought to weaken the war potential of the American economy.
@@ -2448,7 +2448,7 @@ sold under a trademark, such as insulin, milk of magnesia, thyroid,
 or codliver oil, and in the manufacture of which no special
 Schering A. G. process is utilized, 6-1/4%;
 
-(c) On that portion of such amount derived from sales of
+"(c) On that portion of such amount derived from sales of
 new preparations developed by Schering Corp, wholly independent
 of Schering A. G. and which do not fall within a field
 of preparations already developed or in process of development
@@ -3775,7 +3775,7 @@ policy. Article 2 (C) provides: "DuPont shall not sell said
 irradiated or activated Ergosterol or its derivatives at a higher
 price than one dollar and a half ($1.50) or a lower price than
 ninety-five cents ($.95) per million U.S.P.A. (revised 1934)
-Vitamin D Units.
+Vitamin D Units."
 
 The Foundation's support of duPont's policy of high prices
 is indicated in a letter dated July 18, 1935, from Barney to Atkins
@@ -3806,7 +3806,7 @@ by the licensees of the Foundation."
 The Foundation recognized the need for abandoning these
 artificially high price levels and on March 14, 1940, Barney of
 the Foundation wrote to King of duPont referring to "a quotation
-from General Mills at a price of 60c per million" and
+from General Mills at a price of 60¢ per million" and
 stated: "This will acknowledge receipt of your letter of March
 5th regarding the maximum and minimum price provisions with
 respect to the baking field. Shortly, Ward [Ross of the Foundation]
@@ -3845,7 +3845,7 @@ source of supply."
 The profit levels resulting from the Foundation's activities
 were enormous. In a letter dated March 9, 1938, addressed to
 Ward Ross of the Foundation, King of duPont stated: "With
-respect to the Chesney matter, all I know is that 35c per million
+respect to the Chesney matter, all I know is that 35¢ per million
 units was quoted to General Baking Company."
 
 Vitamin D is of the greatest importance to expectant and nursing
@@ -7927,7 +7927,7 @@ with the exception that it reserves the right to sell the British
 Maxium or its successors not more than 300,000 pounds (150
 tons) per annum at a price not lower than the price quoted to
 I. G. for the same quantities, plus an extra charge of not less
-than 4c per pound for I. G.'s larger consumption. Dow further
+than 4¢ per pound for I. G.'s larger consumption. Dow further
 promises to use its best endeavor to keep British Maxium or its
 successors from reselling magnesium in ingot form and will try
 to limit its purchases to its own use in fabricating."
@@ -8403,7 +8403,7 @@ the more important electrical interests, such as the G.E., Siemens
 of Germany, Phillips of Holland, etc., are closely bound
 together in a cartel with the result that they have entered into
 binding agreements, apportioning world markets between the
-respective companies. Accordingly "you can see that if the G.E.
+respective companies. Accordingly you can see that if the G.E.
 broke their agreement and allowed us to export into a foreign
 country which was assigned under the cartel agreement to a
 European manufacturer, that European manufacturer would

@@ -3,37 +3,33 @@
 
 
 /X
-CARTELS
+                                CARTELS
 
-Challenge to a Free World
+                       Challenge to a Free World
 
-_By_ WENDELL BERGE
+                           _By_ WENDELL BERGE
+           _Assistant Attorney General of the United States_
 
-_Assistant Attorney General of the United States_
-
-_Public Affairs Press_
-
-WASHINGTON, D. C.
+                         _Public Affairs Press_
+                           WASHINGTON, D. C.
 X/
 
 
 
 
 /X
-_To My Father_
+                             _To My Father_
 
-GEORGE W. BERGE
+                            GEORGE W. BERGE
 
-_who throughout his life and in his public career was
-guided by the conviction that the people’s rights
-are not won without struggle and will not
-be maintained without vigilance_.
+         _who throughout his life and in his public career was
+           guided by the conviction that the people’s rights
+               are not won without struggle and will not
+                   be maintained without vigilance_.
 
-_Public Affairs Press, 2153 Florida Ave., Washington, D. C._
-
-_Copyright, 1946, by American Council on Public Affairs_
-
-_M. B. Schnapper, Executive Secretary and Editor_
+      _Public Affairs Press, 2153 Florida Ave., Washington, D. C._
+        _Copyright, 1946, by American Council on Public Affairs_
+           _M. B. Schnapper, Executive Secretary and Editor_
 X/
 
 
@@ -5901,9 +5897,9 @@ omission of this provision from the agreement of 1926 did not
 mean a change in policy is clearly shown by the following
 memoranda exchanged by two Bausch and Lomb officials:
 
-/*
-“From: Mr. M. H. Eisenhart      Date: Jan. 11, 1927.
-*/
+/X
+“From: Mr. M. H. Eisenhart                      Date: Jan. 11, 1927.
+X/
 
 “To: Mr. Edw. Bausch.
 
@@ -5926,9 +5922,9 @@ procedure, I think we want to be sure of the definite understanding.”
 
        *       *       *       *       *
 
-/*
-“From: Mr. E. Bausch      Reply      Date: Jan. 27, 1927.
-*/
+/X
+“From: Mr. E. Bausch           Reply            Date: Jan. 27, 1927.
+X/
 
 “To: Mr. M. H. Eisenhart
 

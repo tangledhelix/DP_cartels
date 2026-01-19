@@ -15,12 +15,14 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [x] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
-* [ ] chapter headers are partly in italic text?
+* [ ] Chapter headers are partly in italic text?
+* [ ] A lot of use of `c` to mean `cents`. Replace with `¢`? PM is OK with it.
 * [ ] 005: right-justified signature
 * [ ] 006: ToC
 * [ ] 099: (and possibly elsewhere) use of subscript `_{}` notation
 * [ ] 143: blockquote either in smallcaps or smaller all-caps font
 * [ ] 144: blockquote either in smallcaps or smaller all-caps font
+* [ ] 154: (HTML) abbr "represt." short for "representative"
 * [ ] 170: table
 * [ ] 171: left/center/right justified line? how to handle?
     * left justify but add padding spaces? no table...
@@ -120,6 +122,8 @@ p. 154: changed “violatio nof” to “violation of” (violation of the antit
 p. 157: changed “de-demands” to “demands” (satisfy the actual demands)
 
 p. 191: changed “hope” to “hoped” (It is to be hoped that)
+
+p. 193: removed duplicated word “the” from “Board of Directors of the the Commerce and Industry Association”
 
 p. 205: changed “Sheriman” to “Sherman” (embodied in the Sherman Act)
 

@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -20,6 +24,8 @@ changed to all capitals. Subscripts are indicated with: D_{3}
 
                          _Public Affairs Press_
                            WASHINGTON, D. C.
+
+
 
 
                              _To My Father_
@@ -575,11 +581,11 @@ joint declaration:
 
 “The Reichsgruppe Industrie and the Federation of British Industries,
 having concluded a general discussion on Anglo-German trade relations,
-issue the following agreed statement:
+issue the following agreed statement:[@NESK “]
 
 “1. The two organizations welcome the opportunity which these
 discussions have given of developing still further the friendly
-relations which have existed between the two bodies for so many years.
+relations which have existed between the two bodies for so many years.[@NESK “]
 
                    *       *       *       *       *
 
@@ -589,18 +595,18 @@ ensure a fair return for the producers of those countries. Hence it is
 agreed that it is essential to replace destructive competition wherever
 it may be found by constructive cooperation, designed to foster the
 expansion of world trade, to the mutual benefit of Great Britain,
-Germany and all other countries.
+Germany and all other countries.[@NESK “]
 
 “5. The two organizations are agreed that it is desirable that
 individual industries in both countries should endeavor to arrive at
 industrial agreements which will eliminate destructive competition,
 wherever occurring, but prices must be fixed at such a level as not to
-diminish the buying power of the consumers.
+diminish the buying power of the consumers.[@NESK “]
 
 “6. The two organizations realize that agreements upon prices or other
 factors between Germany and Great Britain are only a step, although a
 most important step, towards a more ordered system of world trade. They
-would welcome the participation of other nations in such agreements.
+would welcome the participation of other nations in such agreements.[@NESK “]
 
                    *       *       *       *       *
 
@@ -610,13 +616,13 @@ of countries may be nullified by competition from the industry in
 some other country that refuses to become a party to the agreement.
 In such circumstances it may be necessary for the organizations to
 obtain the help of their governments and the two organizations agree to
-collaborate in seeking that help.
+collaborate in seeking that help.[@NESK “]
 
 “9. The two organizations agree that it is their objective to ensure
 that as a result of an agreement between their industries unhealthy
 competition shall be removed. Their aim is to secure as complete
 cooperation as possible throughout the industrial structure of their
-respective countries.
+respective countries.[@NESK “]
 
 “10. The two organizations have agreed to use their best endeavors to
 promote and foster negotiations between the individual industries in
@@ -625,11 +631,11 @@ the fact that a considerable number of agreements between individual
 German and British industrial groups are already in existence. There
 is thus available a large body of experience which inspires confidence
 that an immediate extension of this policy is both practicable and
-advantageous.
+advantageous.[@NESK “]
 
 “They are glad to state that approximately a further fifty industrial
 groups have already signified their willingness in principle to
-negotiate at an early date.
+negotiate at an early date.[@NESK “]
 
 “They also report with satisfaction that negotiations have already been
 started and are now taking place between ten industrial groups.”
@@ -804,12 +810,12 @@ stated:
 
 “Broadly speaking, the practical effect of the agreement is to limit
 the field of possible development of each party to its present major
-activities....
+activities....[@NESK “]
 
 “Thus, while a casual reading of the agreement by one not thoroughly
 conversant with all the factors may appear to establish the basis
 for an enlarged free development in most of the fields, this is not
-actually the case.
+actually the case.[@NESK “]
 
                    *       *       *       *       *
 
@@ -858,7 +864,7 @@ would, of course, also have to breach our agreements to render full and
 complete technical reports to all of the companies associated with us
 (even to the American companies, for fear of leakage). We should also
 forfeit the advantage in producing at the least cost the best available
-gasoline for commercial purposes.
+gasoline for commercial purposes.[@NESK “]
 
 “_Any program by which the Army Air Corps can obtain their objective
 of a one or two year start over the rest of the world on this vital
@@ -917,7 +923,7 @@ every member of its Board of Directors) as follows:
 
 “I learned through our Organic Chemicals Division today that the Ethyl
 Gasoline Corporation has in mind forming a German company with the I.
-G. to manufacture Ethyl lead in that country.
+G. to manufacture Ethyl lead in that country.[@NESK “]
 
 “I have just had two weeks in Washington, no inconsiderable part
 of which was devoted to criticising the interchanging with foreign
@@ -925,12 +931,12 @@ companies of chemical knowledge which might have a military value.
 Such giving of information by an industrial company might have the
 gravest repercussions on it. The Ethyl Gasoline Corporation would be no
 exception, in fact, would probably be singled out for special attack
-because of the ownership of its stock.
+because of the ownership of its stock.[@NESK “]
 
 “It would seem, on the face of it, that the quantity of Ethyl lead used
 for commercial purposes in Germany would be too small to go after. It
 has been claimed that Germany is secretly arming. Ethyl lead would
-doubtless be a valuable aid to military aeroplanes.
+doubtless be a valuable aid to military aeroplanes.[@NESK “]
 
 “I am writing you this to say that in my opinion under no conditions
 should you or the Board of Directors of the Ethyl Gasoline Corporation
@@ -1025,7 +1031,7 @@ outlast three batteries, to a point where the life of the lamp and the
 life of the battery under service conditions would be approximately
 equal. Sometime ago, the battery manufacturers went part way with us on
 this and accepted lamps of two battery lives instead of three. This has
-worked out very satisfactorily.
+worked out very satisfactorily.[@NESK “]
 
 “We have been continuing our studies and efforts to bring about the
 use of one battery life lamps. I think you will be interested in
@@ -1034,7 +1040,7 @@ up covering the various points involved in going to the one battery
 life basis. If this were done, we estimate that it would result in
 increasing our flashlight business approximately 60 per cent. We can
 see no logical reason either from our standpoint or that of the battery
-manufacturer why such a change should not be made at this time.
+manufacturer why such a change should not be made at this time.[@NESK “]
 
 “Messrs. Parker and Johnson now have this matter up with the battery
 manufacturers and I would urge that every assistance be given them to
@@ -1067,18 +1073,18 @@ denture under it leads me to wonder if the manufacturers of the
 commercial molding powders might not add an ingredient which would not
 effect the molding properties, but which would disqualify it under the
 act. Apparently a slight trace would suffice. Naturally it would be
-omitted from the strictly denture powder.
+omitted from the strictly denture powder.[@NESK “]
 
 “Recently I asked Dr. Johnson to suggest an addition which might
 interfere with distillation of monomer or retard polymerization. He
 could not think of anything that wouldn’t spoil the molding properties
 or clarity of the powders. But there the quantity needed to accomplish
-the result was the handicap.
+the result was the handicap.[@NESK “]
 
 “Under the very finicky regulations of the above act however, it may be
 the slightest trace of the right agent, too little to constitute harm
 to molding (or health either as a matter of fact) would suffice to have
-bootleg products in bad.
+bootleg products in bad.[@NESK “]
 
 “A millionth of one per cent of arsenic or lead might cause them to
 confiscate every bootleg unit in the country. There ought to be a trace
@@ -1121,7 +1127,7 @@ difficult, according to a report by the Jackson Laboratory dated June
 26, 1940:
 
 “Mr. Chantler was of the opinion that pigment mixtures, unsuitable for
-textile printing would be very difficult to obtain.
+textile printing would be very difficult to obtain.[@NESK “]
 
 “(B) _Agents Injurious to Textile Printing._--The suggestion was made
 that certain compounds that were white under ordinary conditions but
@@ -1131,7 +1137,7 @@ been made along this line using such compounds as Chlorostain N,
 dianisidine and DuPont Oxy Black Base. Complete data on this work are
 not available. Mr. Dahlen expressed the opinion that the addition of
 such compounds probably would cause as much or more damage to the paint
-trade as to textile printing.
+trade as to textile printing.[@NESK “]
 
 “Such substances as ground glass and carborundum were suggested for
 incorporation with the pigment. While these materials would undoubtedly
@@ -1144,7 +1150,7 @@ possible methods of adulteration were considered. I quote a few from
 the confidential memorandum of their discussion:
 
 “1. A new type of copper phthalocyanine (CPC) for the paint and lacquer
-trade which would be unsuitable for application textiles.
+trade which would be unsuitable for application textiles.[@NESK “]
 
                    *       *       *       *       *
 
@@ -1154,13 +1160,13 @@ from this discussion. The three problems are closely related, and it is
 possible that the solution of one or two will automatically solve the
 third. It was agreed that a powder would be the preferable standard.
 After detailed discussion of various modes of attack, the following
-appeared to be outstanding:
+appeared to be outstanding:[@NESK “]
 
 “1. (a) Mixtures of CPC with Lakes.--The most promising mode of attack
 appears to lie in the formulation of a mixture of CPC with a lake,
 especially a lake of CPC. Such a mixture should have fairly good
 fastness to light and _yet be poor in wash fastness on textiles_ or
-incompatible with the usual textile printing lacquers....
+incompatible with the usual textile printing lacquers....[@NESK “]
 
                    *       *       *       *       *
 
@@ -1168,19 +1174,19 @@ incompatible with the usual textile printing lacquers....
 which when applied to textiles and followed by bleaching or heating
 treatment _might increase the deterioration of the cloth_. Compounds
 such as chlorates or aliphatic halides which would produce hydrochloric
-acid were specific examples.
+acid were specific examples.[@NESK “]
 
                    *       *       *       *       *
 
 “(g) Irritating Substances.--_It is known that certain resins and
 solvents are irritating to the skin, often causing dermatitis. It might
 be possible to formulate a CPC composition which will make textile
-materials irritating to the skin._
+materials irritating to the skin._[@NESK “]
 
 “(h) Incorporation of Grit.--It seemed too dangerous to attempt to add
 gritty material to CPC since, although it would interfere with the use
 of the material for textiles, it would also offer serious disadvantages
-in grinding on application of surface coatings.
+in grinding on application of surface coatings.[@NESK “]
 
 “It was agreed that the mere dulling of the material would not be a
 satisfactory solution since dull shades are often used in the textile
@@ -1551,13 +1557,13 @@ the public:
 lighting as far as the utility men are concerned. This concerns one of
 the displays dealing with fluorescent lighting in your G. E. building
 at the New York World’s Fair. I must confess that although I have been
-in your exhibit twice I did not see this particular display.
+in your exhibit twice I did not see this particular display.[@NESK “]
 
 “It appears that 20 watts of fluorescent lighting are compared with 20
 watts of incandescent lighting, the sign purporting to read something
 to the effect ‘See the difference between equal wattages of fluorescent
 and mazda lighting.’ Of course, the readings on the foot candle meters
-show dramatic differences.
+show dramatic differences.[@NESK “]
 
 “If this demonstration is as explained to us, I think it does _violate
 the spirit of the understanding that our group had in Cleveland. As a
@@ -2176,7 +2182,7 @@ many years it has maintained and operated and still does maintain and
 operate laboratories to carry on research and development work in
 connection with such preparations, and has thereby acquired valuable
 scientific knowledge, data and material concerning the aforesaid sphere
-of activities.
+of activities.[@NESK “]
 
 “Schering Corp. has an organization suited for national distribution
 and promotion of such preparations in the United States of America,
@@ -2234,13 +2240,13 @@ make clear this unusual relationship:
 
 “In either of such cases [if net sales of Saraka, a proprietary
 laxative, are more or less than $1,200,000] the royalty shall be as
-follows:
+follows:[@NESK “]
 
 “(b) On that portion of such amount derived from sales of preparations
 commonly available in the open market and not sold under a trademark,
 such as insulin, milk of magnesia, thyroid, or codliver oil, and in the
 manufacture of which no special Schering A. G. process is utilized,
-6-1/4%;
+6-1/4%;[@NESK “]
 
 “(c) On that portion of such amount derived from sales of new
 preparations developed by Schering Corp, wholly independent of Schering
@@ -2455,7 +2461,7 @@ therefore, more than surprised to read your advertisement in the
 ‘Druggists Circular’ announcing ‘CORTATE,’ where it is suggested that
 the drug may be of use in the more chronic constitutional types of
 cortical deficiency, in asthenias, and that certain allergies should be
-benefited by the administration of Cortate....
+benefited by the administration of Cortate....[@NESK “]
 
 “It is again one of your usual methods by putting the other parties
 before accomplished facts. I have discussed your tactics very
@@ -2517,7 +2523,7 @@ October 31, 1936. It concerns a request of Rare to be allowed to
 manufacture a product called Eucupin.
 
 “We are acknowledging the receipt of your letter of October 19th and
-regret to say that we cannot comply with your wishes.
+regret to say that we cannot comply with your wishes.[@NESK “]
 
 “We must take into consideration also the German interest when weighing
 the question whether it is right to send manufacturing processes to
@@ -2615,7 +2621,7 @@ contractors into position to sell hormone compounds in the United
 States without any violation of those statutes.... So far as ... cross
 promises to maintain prices exist, this promise is only lawful if the
 licensee, in this case Ciba, possesses the protection of a patent
-claim....
+claim....[@NESK “]
 
                    *       *       *       *       *
 
@@ -2676,21 +2682,21 @@ possibilities as early as 1939. In a conference of Roche-Organon, Ciba
 and Schering officials, held on August 1, 1939 the following discussion
 took place, according to minutes found in Ciba’s files:
 
-“Mr. Kamp [Ciba] brought up the subject stilbestrol.
+“Mr. Kamp [Ciba] brought up the subject stilbestrol.[@NESK “]
 
 “Mr. Hammer [Schering] said he thought that any concern would have a
-hard time getting stilbestrol accepted in this country.
+hard time getting stilbestrol accepted in this country.[@NESK “]
 
 “Dr. Oppenheimer [Ciba] pointed out that in this country estradiol
 prices may not be too much out of line with those of stilbestrol
-compared with Great Britain.
+compared with Great Britain.[@NESK “]
 
-“The question of side effects from stilbestrol was then discussed.
+“The question of side effects from stilbestrol was then discussed.[@NESK “]
 
 “Dr. Josephy [Roche-Organon] told of reports from Amsterdam on the
 use of stilbestrol in animal experimentation. He said that he thought
 the government would look not only at the favorable reports on a
-preparation which was submitted but also the unfavorable ones.
+preparation which was submitted but also the unfavorable ones.[@NESK “]
 
 “Mr. Kamp said he thought some concern had already filed with the
 government a request to market stilbestrol.”
@@ -3068,7 +3074,7 @@ Nielsen, states:
 “Mr. Nielsen stated that if the capsules were priced considerably
 lower than the commercial product unit for unit, nothing would prevent
 the hospitals from opening the capsules and diluting the content with
-vegetable oil to obtain a ‘250D’ solution far below the regular cost.
+vegetable oil to obtain a ‘250D’ solution far below the regular cost.[@NESK “]
 
 “Dean Russell asked for suggestions to prevent this. Mr. Nielsen stated
 that Abbott Laboratories would give further thought to this problem.
@@ -3253,7 +3259,7 @@ firmly believe that our suggested _Full Retail Prices per package to
 the consumer and Minimum Retail Prices per package to the consumer_ for
 Viosterol in Oil and Cod Liver Oil with Viosterol are more in line with
 present market trends and the present economic market conditions than
-those proposed by Parke-Davis & Company.
+those proposed by Parke-Davis & Company.[@NESK “]
 
 “We are desirous of acting in harmony with all the other licensees of
 the Wisconsin Alumni Research Foundation in regard to the stabilization
@@ -3299,7 +3305,7 @@ manager of Foundation replied on May 13, 1940:
 pharmaceutical licensees of the Foundation under the Steenbock
 patents, the minimum price to be quoted to government institutions is
 the minimum wholesale price as outlined in your contract, less two per
-cent discount for cash if paid by the tenth of the following month.
+cent discount for cash if paid by the tenth of the following month.[@NESK “]
 
 “All of the other pharmaceutical licenses of the Foundation have
 operated under this arrangement for some time. We note, however, your
@@ -3345,7 +3351,7 @@ in turn, investigate the company and report back to whether or not
 they favor the addition of the said company to the list. The general
 procedure set up several years ago was that a majority of the licensees
 (three) would constitute sufficient authority on the part of the
-Foundation to add the name of the company to the approved list.
+Foundation to add the name of the company to the approved list.[@NESK “]
 
 “By reason of the manner in which these are handled, it is impossible
 for us to tell the licensee when we refuse their request anything other
@@ -3507,7 +3513,7 @@ sell the material cheap.” The next day Atkins replied:
 
 “It seems obvious to me that we should always try to get the maximum
 price for any of our goods, keeping in mind the possible potential
-volume and competitive conditions.
+volume and competitive conditions.[@NESK “]
 
 “According to authentic price information which we have secured,
 Fleischmann have been selling and offering Vitamin D at slightly less
@@ -3577,14 +3583,14 @@ dried yeast “antirachitically activated” upon the following terms and
 conditions:
 
 “First: The Licensee shall buy and use such yeast for no other purpose
-than that of feeding cows to impart antirachitic qualities to milk.
+than that of feeding cows to impart antirachitic qualities to milk.[@NESK “]
 
                    *       *       *       *       *
 
 “Fourth: The Licensee shall not sell any of its antirachitically
 activated milk to others for use or incorporation in any other marketed
 product when Vitamin D or antirachitic claims are made or intended to
-be made for such other marketed product.
+be made for such other marketed product.[@NESK “]
 
 “Fifth: The activated yeast purchased by Licensee pursuant to this
 License shall not be resold or otherwise used except for feeding the
@@ -3848,11 +3854,11 @@ dividend was paid, which procedure continued in a more or less degree
 during the following years, particularly in 1929 and 1934. The company,
 as you will see, earned $3,284,427.28 and paid out dividends of
 $4,200,000.00. In other words, we declared practically $1,000,000 more
-during the sixteen-year period than we earned.
+during the sixteen-year period than we earned.[@NESK “]
 
 “Under the circumstances I have no fault to find with this, provided
 our principal stockholders, the Forestal Company, are aware of it and
-are prepared to take care of our money situation as the same arises....
+are prepared to take care of our money situation as the same arises....[@NESK “]
 
 “To come right down to the last analysis, we have been living on
 Government funds, which under proper business procedure should be
@@ -3892,7 +3898,7 @@ Corporation. On February 26, 1935, Ely wrote to Sullivan:
 “I am giving the I.P.C. problems a lot of my time, and, as previously
 told you, have found that there is a lot to be done to straighten out
 that problem. I am working slowly so as not to upset the apple cart any
-more than is necessary....
+more than is necessary....[@NESK “]
 
 “I am getting their sales policies straightened out and believe now
 there will be no more monkey business.”
@@ -4464,7 +4470,7 @@ manager of National Lead’s Patent Department to the General Manager of
 the Titanium Division.
 
 “Confirming our recent conversations, regarding exchange of title to
-patents, I beg to review the situation for you.
+patents, I beg to review the situation for you.[@NESK “]
 
 “On September 7th I wrote Dr. Jebsen, pointing out that in view of the
 war certain questions arose affecting the United States patents which
@@ -4478,7 +4484,7 @@ to protect the patent property of the I. G. Farbenindustrie and
 Titangesellschaft and at the same time would have protected our
 exclusive license by insuring that no one else could have petitioned
 the government to secure licenses under them._ On December 7th I
-received the following cable from Dr. Jebsen:
+received the following cable from Dr. Jebsen:[@NESK “]
 
   “‘YOUR LETTER SEPTEMBER 7 STOP SUBJECT LEADCOS AND TITANINCS APPROVAL
   _HAVE AGREED ASSIGNMENT_ TG PATENTS AND APPLICATIONS COUNTRIES
@@ -4493,7 +4499,7 @@ received the following cable from Dr. Jebsen:
   TITANINC BOARDS AUTHORISATION I ASSIGN TITANINCS PATENTS AND
   APPLICATIONS TO TG AS ABOVE OUTLINED STOP SUGGEST FORMAL RESOLUTION
   BE MADE GENERAL REGARDING ASSIGNMENT AND MAILED STOP PLEASE
-  ACKNOWLEDGE CABLE UPON RECEIPT--JEBSEN’
+  ACKNOWLEDGE CABLE UPON RECEIPT--JEBSEN’[@NESK “]
 
 “The suggestion here is that Titangesellschaft will assign their United
 States patents and applications to National Lead Co. and National Lead
@@ -4507,7 +4513,7 @@ have requested formal assignment of these patents. They have not done
 so in order to save the expense of preparing the assignments and
 recording them in the various countries. The question is, therefore,
 whether Titan Co., Inc., should assign its patents and applications to
-Titangesellschaft.
+Titangesellschaft.[@NESK “]
 
 “In discussing this matter with you on December 8th, _it appeared to
 us that to assign these patents in Germany to Titangesellschaft might
@@ -4518,7 +4524,7 @@ other circumstances, _to abrogate the main agreement, they would be
 free to export their products and, in general, take themselves outside
 of the titanium family cooperation_. I cabled this thought to Dr.
 Jebsen, soliciting his views. A reply has just been received which
-reads as follows:
+reads as follows:[@NESK “]
 
   “‘PROPOSAL MY CABLE DECEMBER 7 IS NOT TGS BUT MINE STOP CONSIDER THIS
   BEST PRESENT CIRCUMSTANCES TO SECURE LEGAL POSITION ALL AROUND STOP
@@ -4526,7 +4532,7 @@ reads as follows:
   _PREVENTION IMPORT PARTLY SECURED IN FUTURE BY PATENTS IN RESPECTIVE
   COUNTRIES BUT WILL BE CHIEFLY SECURED BY ALL COMPANIES SELFISH
   INTEREST IN COOPERATION BECAUSE OF ADVANTAGES ALREADY REALIZED BY
-  EXPERIENCE_.’
+  EXPERIENCE_.’[@NESK “]
 
 “You will see that Dr. Jebsen believes that in view of the war the best
 possible legal position for each of the members of the family is to
@@ -4534,7 +4540,7 @@ hold title to all patents in its territory. He believes that prevention
 of import and export competition will chiefly be secured in the future
 through the individual company’s recognition of the advantages to be
 derived from maintaining the cooperation, having through experience
-appreciated the value of this cooperation.
+appreciated the value of this cooperation.[@NESK “]
 
 “It should be noted in this connection that even if Titan Co., Inc.,
 retained title to the patents in Germany, and should the government
@@ -4814,14 +4820,14 @@ which they are interested are here. He assented to this and was to
 come yesterday but was taken sick so in place sent his aid, Lieut.
 Culbert, U. S. N., who was also accompanied by the Military represt.
 of the Am. Commission. What the Navy wants at once are: [enumerating
-range-finders, periscopes, sights and other similar instruments].
+range-finders, periscopes, sights and other similar instruments].[@NESK “]
 
 “For these instruments they are in a hurry and most probably we will
 have to import the optics from here as it would be impossible for us
 to produce them in time even with Zeiss opticians. I thought it best
 to go with Fred to Berlin to see Comdr. Bechler & impress upon him
 the importance of finding out how many of the various instruments are
-wanted, so as to receive the optics in time.
+wanted, so as to receive the optics in time.[@NESK “]
 
 “_The Navy Department wants to obtain a copy of the agreement as a kind
 of a guarantee that if they order from us they will really receive
@@ -4903,12 +4909,12 @@ dated February 10, 1939, substantiates this statement:
 intended to cover the period between 1907 and 1915, during which time
 we freely admit that you were of assistance to us in the establishment
 of our military department, or to the period following the resumption
-of our cooperative endeavor after the World War.
+of our cooperative endeavor after the World War.[@NESK “]
 
 “On the assumption that you are referring to the earlier period, we
 believe that you were completely compensated by the dividends which you
 received on the stock held in our company and by the appreciation in
-the value of this stock which you realized at the time of its sale.
+the value of this stock which you realized at the time of its sale.[@NESK “]
 
 “If, on the other hand, you are referring to the later period, _we
 believe that inasmuch as the arrangement made accomplished the primary
@@ -4982,7 +4988,7 @@ provision:
 optical instruments as equipment for a ship of a country outside of
 the United States, all instruments in which the ideas of construction
 of the firm of Carl Zeiss have been used, shall, besides the trade
-name of Bausch & Lomb, be engraved with the designation, “System
+name of Bausch & Lomb, be engraved with the designation, [@CODQ]“System
 Nedinsco-Zeiss.” Instruments according to the construction of Bausch &
 Lomb shall bear only their name. On instruments furnished by Nedinsco
 the name of Nedinsco will appear next to the name of Bausch & Lomb.”
@@ -5060,7 +5066,7 @@ information. On July 9, 1929 Bausch and Lomb wrote to August Lomb as
 follows:
 
 “We are appending our report which will bring the Military transactions
-up to date.
+up to date.[@NESK “]
 
 “We have nothing further to say at this time than what has already
 been stated in our report as regards the confidential nature of this
@@ -5096,14 +5102,14 @@ Bausch and Lomb wrote Zeiss this letter:
 
 “We confirm having written you the letter stated in the above
 reference. The pamphlet referred to in it has been sent to Mr. August
-Lomb, via registered mail.
+Lomb, via registered mail.[@NESK “]
 
 “It occurs to us that we were not sufficiently specific regarding the
 caution that must be exercised for our protection in keeping the loan
 of this pamphlet a secret, and particularly as regards the inspector.
 If any question should arise with regard to the pamphlet which you are
 preparing, _please do not admit to any one that this has been prepared
-analogous to our copy_.
+analogous to our copy_.[@NESK “]
 
 “_By reason of the great importance which we attach to the secrecy
 of this question, the copy has been sent via our Frankfurt office,
@@ -5120,12 +5126,12 @@ we surely would be better in a position to assist you _if you would
 report to us what kinds of instruments are under trial and in use by
 your military service_. There must be a great many questions regarding
 instruments for _airplanes, tanks, and ships_ which demand special
-optical instruments.
+optical instruments.[@NESK “]
 
 “We would ask that you intensively _find out at the proper places and
 that you communicate to us the different problems_, so that we are
 placed in a position to name you the necessary instruments which we
-also make new to satisfy the actual demands.
+also make new to satisfy the actual demands.[@NESK “]
 
 “We believe that thereby the business could be enlivened and also work
 could be created for you as well as us.”
@@ -5137,16 +5143,16 @@ as follows:
 the last few years has materialized exclusively in Rangefinders and
 Periscopes for the Navy and that also in this respect it has lost more
 and more in intensity, whereas all other instruments for Army and Navy
-have completely ceased.
+have completely ceased.[@NESK “]
 
 “_It may be assumed with great probability that the many other kinds of
 military instruments would find interest in the United States and that
 there would be a demand for these so that also for these there should
-be certain business chances._
+be certain business chances._[@NESK “]
 
 “Notwithstanding that we transmitted to you information regarding
 many of our products, you have recently made a demand upon us for our
-constructive help only to a very limited extent.
+constructive help only to a very limited extent.[@NESK “]
 
 “Business possibilities for foreign countries have never been mentioned
 which may result from American credits to foreign countries or from
@@ -5159,7 +5165,7 @@ interest that we endeavor to bring about a more intensive cooperation
 between us in the frame of our agreement and we therefore ask that you
 make known your position and make proposals as to how far and in what
 manner these relations could be furthered and the possibilities of
-business could be more rationally exploited.
+business could be more rationally exploited.[@NESK “]
 
 “_We would also be thankful for a comprehensive economic report which
 would enable us to judge conditions._”
@@ -5172,7 +5178,7 @@ On December 14, 1933 Bausch and Lomb wrote to August Lomb as follows:
 “We are sending you herewith our report which unfortunately had to be
 delayed by reason of the pressure of work which had to be taken care of
 in this department, due to the sudden activity brought about by the N.
-R. A.
+R. A.[@NESK “]
 
 “_By reason of special secrecy clauses of late attached to each bid
 and contract, these reports, as harmless as they are considering that
@@ -5180,7 +5186,7 @@ they have a commercial purpose only, are contrary to these clauses. We
 cannot very well eliminate them under the existing agreement with Carl
 Zeiss; however the regulations are so stringent that particular care
 must be exercised to keep these reports in strictest confidence and
-they should be kept in a separate file under lock and key._
+they should be kept in a separate file under lock and key._[@NESK “]
 
 “We would ask that you be governed accordingly and that you bring these
 facts to the attention of Messrs. Carl Zeiss.”
@@ -5190,7 +5196,7 @@ paragraphs of his reply were as follows:
 
 “Since writing you December 5th, your letter Nr. 8909 of December 14th
 was received. It just arrived before the writer went to Jena and could
-therefore be discussed there.
+therefore be discussed there.[@NESK “]
 
 “_Monthly report._ That enclosed in your letter Nr. 8909 was therefore
 transmitted personally, impressing again the _necessity of considering
@@ -5198,7 +5204,7 @@ this information strictly confidential and secret_. This is fully
 understood by the management as well as their Mil. Department and
 we _were again assured that these reports are locked up and only
 accessible to a few people who are fully responsible so that you can
-depend on your instructions being carried out_.
+depend on your instructions being carried out_.[@NESK “]
 
 “The contents of this report were very pleasing so far as the
 important orders are concerned which you were able to secure. It is to
@@ -5214,7 +5220,7 @@ On October 16, 1934 Bausch and Lomb wrote to August Lomb as follows:
 “We are very sorry to find that we neglected to send you our report for
 a considerable length of time. _As you know, we are not free to give
 you these reports._ This is about the best excuse that we can offer;
-_the less reports we make the less the chance of any going astray_.
+_the less reports we make the less the chance of any going astray_.[@NESK “]
 
 “_We shall try to keep you informed more regularly having your
 assurance that these matters will be treated by you and Carl Zeiss in
@@ -5245,7 +5251,7 @@ Zeiss:
 
 “With your letter in reference we received from you a new optical
 layout in the form of your drawing A 33 08 65/Opt. L. No. 2 for the
-altiperiscopes of 34 foot optical length.
+altiperiscopes of 34 foot optical length.[@NESK “]
 
 “_We recently learned that our Government is now contemplating the use
 of 40 foot submarine periscopes and that bids for these will soon be
@@ -5257,7 +5263,7 @@ increased in length as shown on our drawing Mil. 458 sent herewith._
 Moreover, the inner diameter of the main body tube now measures 6,500
 inches diameter for a distance of 11 feet from the eye-piece and while
 its remaining length has an inner diameter of 6.375 inches as shown on
-our drawing Mil. 458.
+our drawing Mil. 458.[@NESK “]
 
 “We would ask that you kindly prepare for us immediately a new
 optical layout conforming to these changes and that you give us this
@@ -5277,7 +5283,7 @@ _Since 1935 such a statement was not received, probably because you
 did not want to furnish any such data in accordance with your letter
 Nr. 9383 of October 16th, 1934. Zeiss, however, would be satisfied
 with very brief and condensed information, for instance Range Finders
-abbreviated to R.F. etc., if possible._
+abbreviated to R.F. etc., if possible._[@NESK “]
 
 “Of course you will have to consider this with the Executive Office and
 may let us know occasionally whether feasible or not.”
@@ -5292,7 +5298,7 @@ you use in your manufacturing processes, designating at the same time
 those instruments in whose manufacture these patents are used, also
 indicating the turnover you have had in these instruments during the
 last two business years, and the volume of orders which you have at
-present on hand for such instruments_.
+present on hand for such instruments_.[@NESK “]
 
 “We take it for granted that your Administrative Division can make
 up such a statement without trouble and loss of time so that we _may
@@ -5345,7 +5351,7 @@ will be necessary that the consular invoices and export declarations
 which you will have to make out be higher in this particular case than
 your net invoice prices to us. Your shipping papers, consular invoices,
 and export declarations, etc., accordingly should state the following
-prices_, f.o.b. Venlo:
+prices_, f.o.b. Venlo:[@NESK “]
 
     _Item_                                   _Unit_      _Total_
     1 --The unit price to be declared by
@@ -5361,7 +5367,7 @@ prices_, f.o.b. Venlo:
 
 “The difference between the above prices and those stipulated in the
 official contract are satisfactorily explained by shipping expenses,
-etc.
+etc.[@NESK “]
 
 “It goes without saying that you will bill us for these periscopes in
 accordance with your letter of December 29, 1931 (N XIII/6661), less
@@ -5374,12 +5380,12 @@ from the agreement of 1926 did not mean a change in policy is clearly
 shown by the following memoranda exchanged by two Bausch and Lomb
 officials:
 
-“From: Mr. M. H. Eisenhart                      Date: Jan. 11, 1927.
+“From: Mr. M. H. Eisenhart                      Date: Jan. 11, 1927.[@NESK “]
 
-“To: Mr. Edw. Bausch.
+“To: Mr. Edw. Bausch.[@NESK “]
 
 “I have read the following paragraph in August Lomb’s letter of
-December 20, 1926:
+December 20, 1926:[@NESK “]
 
 “‘We note that you have decided to give up all military work
 in connection with foreign countries, thus doing away with the
@@ -5387,7 +5393,7 @@ supplementary agreement of October 28th, 1925. Its second paragraph on
 page 2 treats of instruments which you might be called to supply for
 foreign vessels built or equipped on American ship yards, as was the
 case for Argentine. We understand that, as this entire agreement is now
-canceled, you will renounce to bidding for such instruments hereafter.’
+canceled, you will renounce to bidding for such instruments hereafter.’[@NESK “]
 
 “Is it your understanding from this that in the future we will not bid
 on any military instruments for use anywhere outside of the United
@@ -5396,9 +5402,9 @@ to be sure of the definite understanding.”
 
                    *       *       *       *       *
 
-“From: Mr. E. Bausch           Reply            Date: Jan. 27, 1927.
+“From: Mr. E. Bausch           Reply            Date: Jan. 27, 1927.[@NESK “]
 
-“To: Mr. M. H. Eisenhart
+“To: Mr. M. H. Eisenhart[@NESK “]
 
 “It is my understanding, in accordance with the opinion of Carl Lomb,
 that we are not to bid on any military instruments for use anywhere
@@ -5419,19 +5425,19 @@ following item:
 “Millions of dollars of foreign Government orders for military optical
 instruments have been rejected by the Bausch & Lomb Co., of Rochester,
 New York, because they might conceivably be used against the United
-States or its interests in another War.
+States or its interests in another War.[@NESK “]
 
 “Proudly last week, vigorous, eighty-two-year-old Dr. Edward Bausch,
 founder and chairman, declared that to be his company’s settled policy,
 developed ‘through a close understanding with the Departments of the
-Army and the Navy of our Government.’...
+Army and the Navy of our Government.’...[@NESK “]
 
 “Chiefly, Bausch & Lomb’s rejected orders have been offered by England
 and France, have been for range-finders, periscopes, gun-sights,
 binoculars, artillery fire-control instruments. Business from those
 two Governments would have exceeded $1,500,000. Various smaller
 nations have also sought to make contracts and have been refused.
-Self-sufficient Germany, however, has shown no needs.
+Self-sufficient Germany, however, has shown no needs.[@NESK “]
 
 “_War-Time Seller_--During the World War, encouraged by Washington,
 Bausch & Lomb made large sales to the Allies, built up an extensive
@@ -5449,7 +5455,7 @@ Lomb wrote the British Military Attache in Washington as follows:
 
 “In reply to your letter of March 24, 1938 we wish to inform you that
 the instruments that we manufacture for the U. S. War Department are 4
-meter Stereo Height Finders.
+meter Stereo Height Finders.[@NESK “]
 
 “Unfortunately we have to inform you that we are not in a position to
 take British Government orders at the present time.”
@@ -5465,7 +5471,7 @@ Lomb wrote to International Standard Electric Corporation on July 1,
 “One of the first steps I took in giving consideration to your
 proposition which we discussed yesterday was to look into the
 contractual arrangements to which we are already obligated which I
-spoke to you about in my conversation.
+spoke to you about in my conversation.[@NESK “]
 
 “_Our attorneys tell us that we are absolutely tied up in a way that
 will prevent our giving you the type of assistance you need to get
@@ -5474,7 +5480,7 @@ was that events over the last few years had changed our foreign
 relationship in a way that might allow us to work with you, but I am
 definitely satisfied now that such is not the case. Because of this
 situation, there is no need for us to delay you any further in your
-plan.
+plan.[@NESK “]
 
 “I enjoyed very much your visit here and perhaps at some future
 occasion I may have the opportunity of meeting you again.”
@@ -5528,7 +5534,7 @@ dated January 17, 1936, should suffice to substantiate the point.
 “We have given consideration to the suggestions which you have made for
 further clarification of the interpretations of the existing contract
 which was the subject of our letter of October 14, 1935. We are,
-therefore, restating the points covered in that letter, as follows:
+therefore, restating the points covered in that letter, as follows:[@NESK “]
 
 [Par. 1 and 2 deals with termination of the contract]
 
@@ -5572,7 +5578,7 @@ their having put in a bid for Field Glasses to the government at such
 ridiculously low prices that we cannot understand how there can be
 any profit in it for them, but leaves us with a feeling that they
 are aiming to put us out of competition and acquire the business for
-themselves.
+themselves.[@NESK “]
 
 “Such efforts as they are making in this territory will surely lead to
 more aggressive action on our part and will certainly lead to anything
@@ -5590,13 +5596,13 @@ comes very close to doubling the present rate. I expressed myself to
 Mr. Lomb in a very general way, and had pointed out merely the effect
 of the change of duty, which was probably caused by your initiative,
 and I used the expression that the sixty per cent rate had, in reality,
-been doubled.
+been doubled.[@NESK “]
 
 “The essential consequence is that quality binoculars--and only those
 of more than 5× magnification, and of foreign net value of more than
 $12--have been affected by this measure. In reality, only Zeiss
 Binoculars fall under this arrangement, whereas all the cheap French
-prism binoculars, which are not negligible in quantity, are exempt.
+prism binoculars, which are not negligible in quantity, are exempt.[@NESK “]
 
 “From your letter, I have noted that the steps taken by you were
 prompted by our offer and that of Carl Zeiss, New York, of six hundred
@@ -5611,7 +5617,7 @@ satisfactory solution of the question for the future, and this by
 means of a friendly understanding. Such an understanding would have
 been readily possible at the time, for we have always been ready to
 recognize justified wishes or requests of other houses, especially of
-those friendly to us.
+those friendly to us.[@NESK “]
 
 “I would consider it to our mutual interests if this duty arrangement,
 which, as I admit frankly, has caused great bitterness on our part,
@@ -5651,7 +5657,7 @@ matter?’ I also said that under the management of the older generation,
 such a thing, as this binocular case turned out to be, would not have
 been possible. But I do not wish these words to be generalized to the
 above blunt statement, and I am sorry, if I may not have expressed
-myself clearly enough.
+myself clearly enough.[@NESK “]
 
 “Now turning to the binocular matter, you know that I have had
 conversations with your firm in which I found a certain degree of
@@ -5669,7 +5675,7 @@ prism binoculars. We ourselves as well as other importers were deprived
 of what little right we had under the tariff law to state our side. If
 you personally have any doubt as to who engineered this whole affair, I
 suggest that you read the stenographic report of the so-called ‘Public
-Hearing’ which took place in Washington on October 18, 1932.
+Hearing’ which took place in Washington on October 18, 1932.[@NESK “]
 
 “You say that we quoted on 600 binoculars 6 × 30 such a low price that
 it was ‘out of reason.’ Admitted that our price of $26--was low. Your
@@ -5935,7 +5941,7 @@ allocated 37-1/2 per cent of its shares, and DAG 25 per cent; and the
 parties agreed to conduct all their exports in explosives to South
 America through this corporation. Exports to Chile and Bolivia were
 not included, however, as du Pont and ICI had earlier organized a
-jointly-owned company, Compania Sud-Americana de Explosivos, to import
+jointly-owned company, Compania Sud-Americana de Explosives, to import
 and manufacture explosives in Bolivia and Chile.
 
 At the time du Pont and ICI entered into the conspiracy, it was
@@ -6333,7 +6339,7 @@ Commission said:
 manufacturers and producers are apparent. They may be used to exploit
 the home market and they may be used unfairly against individual
 American exporters in foreign trade. The dangers in cooperative action
-must be faced frankly and provided against fully.
+must be faced frankly and provided against fully.[@NESK “]
 
 “The Commission is confident that this can be done without sacrificing
 the essential advantages of joint action and without altering the
@@ -6406,7 +6412,7 @@ the fact that this bill does not repeal the Sherman Law. He had in
 mind one paragraph only and lost sight of all the restrictions and
 qualifications it contains. I submit that when this bill is construed
 judicially it will be analyzed as a whole and not one part separate
-from the other.
+from the other.[@NESK “]
 
 “The Senator forgets that neither the associations, nor their
 agreements, nor their actions can be in restraint of trade within the
@@ -6802,17 +6808,17 @@ following:
 
 “Based upon my observations and discussion today, I think that this
 matter is the most important which has ever faced the company since the
-dissolution.
+dissolution.[@NESK “]
 
 “The Badische can make high grade motor fuel from lignite and other low
 quality coals in amounts up to half the weight of the coal. This means
 absolutely the independence of Europe on the matter of gasoline supply.
-Straight price competition is all that is left....
+Straight price competition is all that is left....[@NESK “]
 
 “They can make up to 100% by weight from any liquid hydrocarbon, tar,
 fuel oil, or crude oil. This means that refining of oil will have as a
 competitive industry in America and elsewhere, catalytic conversion of
-the crude into motor fuel.
+the crude into motor fuel.[@NESK “]
 
                    *       *       *       *       *
 
@@ -6832,8 +6838,8 @@ proposition and we are going to stay out of the chemical business
 insofar as that has no bearing on the oil business.”
 
 Competition between I. G. Farben and Standard Oil was eliminated, and
-the technology of chemistry and petroleum was made part of their feudal
-preserve. The economic effect was the maintenance of monopoly.
+the technology of chemistry and petroleum was was made part of their
+feudal preserve. The economic effect was the maintenance of monopoly.
 
 Stated in a more detailed way, Standard Oil was given the world right
 on the oil process and I. G. Farben was given the chemical business
@@ -7018,12 +7024,12 @@ stating:
 Purchasing Commission or to the Government of the Union of South Africa
 or to the Government of Canada is most undesirable by reason of our
 Tetrazene contract with R. W. S. [Rheinische Westfalische Sprengstoff,
-a wholly-owned subsidiary of I. G. Farben].
+a wholly-owned subsidiary of I. G. Farben].[@NESK “]
 
 “Article III, Paragraph D of the original contract of November 14,
 1929, reads as follows: ‘Remington shall not sell military ammunition
 containing any Tetrazene in Germany and in any or all of the countries
-in the British Empire.’
+in the British Empire.’[@NESK “]
 
                    *       *       *       *       *
 
@@ -7031,7 +7037,7 @@ in the British Empire.’
 ammunition sold at this time to his Majesty’s Government in the United
 Kingdom is military ammunition ... or that such sale is a sale in a
 country of the British Empire within the intent of Article III D of the
-contract.
+contract.[@NESK “]
 
 “We understand that the Process Division have recommended the use of
 Tetrazene priming in certain ammunition to be sold to the British
@@ -7057,7 +7063,7 @@ October 25, 1939, as follows:
 
 “Under our agreement your geographical contract territory includes the
 United States, its territories and Canada. A state of war exists at the
-present time between Canada and ourselves.
+present time between Canada and ourselves.[@NESK “]
 
 “Notwithstanding the war we are of course willing to live up to the
 agreement as far as possible. However, we would appreciate receiving
@@ -7350,7 +7356,7 @@ coming into the American market, but du Ponts are afraid to write a
 letter to this effect because in the case of an investigation of their
 firm by politicians, the politicians might make capital of such a
 statement, i.e., they might attempt to point out that the world was
-divided up between I.C.I. and du Ponts.
+divided up between I.C.I. and du Ponts.[@NESK “]
 
 “I told Mr. Wardenburg that I had implicit faith in all the assurances
 which they had made to me, but that for my own protection I had to
@@ -7947,7 +7953,7 @@ I suggest that we ought to have an impartial and searching survey
 begun as soon as possible as to American research facilities and the
 state of American research. This is not a matter which concerns only
 our foreign trade. It goes to the very heart of our future domestic
-well-being.
+wellbeing.
 
 Of course, I do not mean to suggest that we should cut ourselves off
 from European research. There is every reason to believe that research
@@ -9434,9 +9440,6 @@ p. 154: changed “violatio nof” to “violation of” (violation of the
 antitrust laws)
 
 p. 157: changed “de-demands” to “demands” (satisfy the actual demands)
-
-p. 182: changed “Explosives” to “Explosivos” (Compania Sud-Americana de
-Explosivos)
 
 p. 191: changed “hope” to “hoped” (It is to be hoped that)
 

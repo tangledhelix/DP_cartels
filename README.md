@@ -125,6 +125,8 @@ p. 154: changed “violatio nof” to “violation of” (violation of the antit
 
 p. 157: changed “de-demands” to “demands” (satisfy the actual demands)
 
+p. 182: changed “Explosives” to “Explosivos” (Compania Sud-Americana de Explosivos)
+
 p. 191: changed “hope” to “hoped” (It is to be hoped that)
 
 p. 193: removed duplicated word “the” from “Board of Directors of the the Commerce and Industry Association”
@@ -134,6 +136,8 @@ p. 205: changed “Sheriman” to “Sherman” (embodied in the Sherman Act)
 p. 206: changed “would would” to “would make” (would make such abuses impossible)
 
 p. 210: changed “every” to “ever” (which has ever faced the company)
+
+p. 211: removed duplicated word “was” from “petroleum was was made part of”
 
 p. 229: changed “authortiy” to “authority” (Public authority must not be left)
 

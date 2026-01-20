@@ -22,8 +22,6 @@ changed to all capitals. Subscripts are indicated with: D_{3}
                            WASHINGTON, D. C.
 
 
-
-
                              _To My Father_
 
                             GEORGE W. BERGE
@@ -5937,7 +5935,7 @@ allocated 37-1/2 per cent of its shares, and DAG 25 per cent; and the
 parties agreed to conduct all their exports in explosives to South
 America through this corporation. Exports to Chile and Bolivia were
 not included, however, as du Pont and ICI had earlier organized a
-jointly-owned company, Compania Sud-Americana de Explosives, to import
+jointly-owned company, Compania Sud-Americana de Explosivos, to import
 and manufacture explosives in Bolivia and Chile.
 
 At the time du Pont and ICI entered into the conspiracy, it was
@@ -6834,8 +6832,8 @@ proposition and we are going to stay out of the chemical business
 insofar as that has no bearing on the oil business.”
 
 Competition between I. G. Farben and Standard Oil was eliminated, and
-the technology of chemistry and petroleum was was made part of their
-feudal preserve. The economic effect was the maintenance of monopoly.
+the technology of chemistry and petroleum was made part of their feudal
+preserve. The economic effect was the maintenance of monopoly.
 
 Stated in a more detailed way, Standard Oil was given the world right
 on the oil process and I. G. Farben was given the chemical business
@@ -7949,7 +7947,7 @@ I suggest that we ought to have an impartial and searching survey
 begun as soon as possible as to American research facilities and the
 state of American research. This is not a matter which concerns only
 our foreign trade. It goes to the very heart of our future domestic
-wellbeing.
+well-being.
 
 Of course, I do not mean to suggest that we should cut ourselves off
 from European research. There is every reason to believe that research
@@ -9437,6 +9435,9 @@ antitrust laws)
 
 p. 157: changed “de-demands” to “demands” (satisfy the actual demands)
 
+p. 182: changed “Explosives” to “Explosivos” (Compania Sud-Americana de
+Explosivos)
+
 p. 191: changed “hope” to “hoped” (It is to be hoped that)
 
 p. 193: removed duplicated word “the” from “Board of Directors of the
@@ -9448,6 +9449,9 @@ p. 206: changed “would would” to “would make” (would make such abuses
 impossible)
 
 p. 210: changed “every” to “ever” (which has ever faced the company)
+
+p. 211: removed duplicated word “was” from “petroleum was was made part
+of”
 
 p. 229: changed “authortiy” to “authority” (Public authority must not
 be left)

@@ -23,7 +23,7 @@ h1 { font-size: 300%; letter-spacing: 0.08em; }
 .author { font-size: 120%; font-weight: bold; }
 .publisher { font-size: 140%; font-weight: bold; }
 .dadname { font-size: 115%; }
-.dadtext { max-width: 30em; margin: auto }
+.dadtext { max-width: 25em; margin: auto }
 .small { font-size: 90%; }
 
 p {
@@ -464,41 +464,144 @@ involved.</p>
 </div>
 
 
-<pre>
-<i>1</i>: Trusts to Cartels                                  1
+<table class="autotable">
 
-<i>2</i>: Enterprise Eclipsed                               10
+<tr>
+<td class="tdl">
+  <i>1</i>:
+  <a href="#Page_1">Trusts to Cartels</a>
+</td>
+<td class="tdr">1</td>
+</tr>
 
-<i>3</i>: Technology                                        19
+<tr>
+<td class="tdl">
+  <i>2</i>:
+  <a href="#Page_10">Enterprise Eclipsed</a>
+</td>
+<td class="tdr">10</td>
+</tr>
 
-<i>4</i>: Patents                                           36
+<tr>
+<td>
+  <i>3</i>:
+  <a href="#Page_19">Technology</a>
+</td>
+<td class="tdr">19</td>
+</tr>
 
-<i>5</i>: Medicines                                         52
+<tr>
+<td class="tdl">
+  <i>4</i>:
+  <a href="#Page_36">Patents</a>
+</td>
+<td class="tdr">36</td>
+</tr>
 
-<i>6</i>: Synthetic Hormones                                58
+<tr>
+<td>
+  <i>5</i>:
+  <a href="#Page_52">Medicines</a>
+</td>
+<td class="tdr">52</td>
+</tr>
 
-<i>7</i>: Vitamins                                          82
+<tr>
+<td class="tdl">
+  <i>6</i>:
+  <a href="#Page_58">Synthetic Hormones</a>
+</td>
+<td class="tdr">58</td>
+</tr>
 
-<i>8</i>: Quebracho Extract                                112
+<tr>
+<td class="tdl">
+  <i>7</i>:
+  <a href="#Page_82">Vitamins</a>
+</td>
+<td class="tdr">82</td>
+</tr>
 
-<i>9</i>: Titanium                                         124
+<tr>
+<td class="tdl">
+  <i>8</i>:
+  <a href="#Page_112">Quebracho Extract</a>
+</td>
+<td class="tdr">112</td>
+</tr>
 
-<i>10</i>: Optical Instruments                             142
+<tr>
+<td class="tdl">
+  <i>9</i>:
+  <a href="#Page_124">Titanium</a>
+</td>
+<td class="tdr">124</td>
+</tr>
 
-<i>11</i>: Miscellaneous Products                          176
+<tr>
+<td class="tdl">
+  <i>10</i>:
+  <a href="#Page_142">Optical Instruments</a>
+</td>
+<td class="tdr">142</td>
+</tr>
 
-<i>12</i>: The Webb Act                                    192
+<tr>
+<td class="tdl">
+  <i>11</i>:
+  <a href="#Page_176">Miscellaneous Products</a>
+</td>
+<td class="tdr">176</td>
+</tr>
 
-<i>13</i>: Private Governments                             208
+<tr>
+<td class="tdl">
+  <i>12</i>:
+  <a href="#Page_192">The Webb Act</a>
+</td>
+<td class="tdr">192</td>
+</tr>
 
-<i>14</i>: Freedom or Control?                             233
+<tr>
+<td class="tdl">
+  <i>13</i>:
+  <a href="#Page_208">Private Governments</a>
+</td>
+<td class="tdr">208</td>
+</tr>
 
-<i>Appendix I</i>: Recent Cases                            250
+<tr>
+<td class="tdl">
+  <i>14</i>:
+  <a href="#Page_233">Freedom or Control?</a>
+</td>
+<td class="tdr">233</td>
+</tr>
 
-<i>Appendix II</i>: Bibliography                           257
+<tr>
+<td class="tdl">
+  <i>Appendix I</i>:
+  <a href="#Page_250">Recent Cases</a>
+</td>
+<td class="tdr">250</td>
+</tr>
 
-Index                                               261
-</pre>
+<tr>
+<td class="tdl">
+  <i>Appendix II</i>:
+  <a href="#Page_257">Bibliography</a>
+</td>
+<td class="tdr">257</td>
+</tr>
+
+<tr>
+<td class="tdl">
+<a href="#Page_261">Index</a>
+</td>
+<td class="tdr">261</td>
+</tr>
+
+</table>
 
 
 <hr class="chap x-ebookmaker-drop">

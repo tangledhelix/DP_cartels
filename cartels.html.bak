@@ -25,6 +25,7 @@ h1 { font-size: 300%; letter-spacing: 0.08em; }
 .dadname { font-size: 115%; }
 .dadtext { max-width: 25em; margin: auto }
 .small { font-size: 90%; }
+.xsmall { font-size: 75%; }
 
 p {
     margin-top: .5em;
@@ -91,10 +92,14 @@ table {
 table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 0.25em; }
+table.autotable th { font-weight: normal; }
 
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
+
+.tdt { vertical-align: top; }
+.tdb { vertical-align: bottom; }
 
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
@@ -5426,7 +5431,7 @@ the government to secure licenses under them.</i> On December
 7th I received the following cable from Dr. Jebsen:</p>
 
 <blockquote>
-<p>“‘YOUR LETTER SEPTEMBER 7 STOP SUBJECT LEADCOS AND TITANINCS
+<p class="small">“‘YOUR LETTER SEPTEMBER 7 STOP SUBJECT LEADCOS AND TITANINCS
 APPROVAL <i>HAVE AGREED ASSIGNMENT</i> TG PATENTS AND APPLICATIONS
 COUNTRIES OUTSIDE TG TERRITORY TO TITANINC AND ASSIGNMENT
 LEADCOS AND TITANINCS PATENTS AND APPLICATIONS COUNTRIES
@@ -5471,7 +5476,7 @@ his views. A reply has just been received which reads as
 follows:</p>
 
 <blockquote>
-<p>“‘PROPOSAL MY CABLE DECEMBER 7 IS NOT TGS BUT MINE STOP
+<p class="small">“‘PROPOSAL MY CABLE DECEMBER 7 IS NOT TGS BUT MINE STOP
 CONSIDER THIS BEST PRESENT CIRCUMSTANCES TO SECURE LEGAL POSITION
 ALL AROUND STOP EXACTLY LEGAL POSTWAR POSITION PATENTS
 OTHERWISE VERY UNCERTAIN STOP <i>PREVENTION IMPORT PARTLY SECURED
@@ -6413,21 +6418,67 @@ invoice prices to us. Your shipping papers, consular invoices,
 and export declarations, etc., accordingly should state the following
 prices</i>, f.o.b. Venlo:</p>
 
-<pre>
-<i>Item</i>                                   <i>Unit</i>    <i>Total</i>
-1 —The unit price to be declared by
-    you will be                          $7,400   $14,800.00
-1a—The unit price to be declared by
-    you will be                             470      470.00
-2 —The unit price to be declared by
-    you will be                           6,780   20,340.00
-      (Note: The repeater motor is
-        here included)
-2a—The unit price to be declared by
-    you will be                             470      940.00
-</pre>
+<table class="autotable p2">
 
-<p>“The difference between the above prices and those stipulated
+<tr>
+<th class="tdl" colspan="2"><i>Item</i></th>
+<th><i>Unit</i></th>
+<th><i>Total</i></th>
+</tr>
+
+<tr>
+<td class="tdl tdt">1</td>
+<td class="tdl tdt">
+The unit price to be declared by
+you will be
+</td>
+<td class="tdr tdb">$7,400</td>
+<td class="tdr tdb">$14,800.00</td>
+</tr>
+
+<tr>
+<td class="tdl tdt">1a</td>
+<td class="tdl tdt">
+The unit price to be declared by
+you will be
+</td>
+<td class="tdr tdb">470</td>
+<td class="tdr tdb">470.00</td>
+</tr>
+
+<tr>
+<td class="tdl tdt">2</td>
+<td class="tdl tdt">
+The unit price to be declared by
+you will be
+</td>
+<td class="tdr tdb">6,780</td>
+<td class="tdr tdb">20,340.00</td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+(Note: The repeater motor is
+here included)
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td class="tdl tdt">2a</td>
+<td class="tdl tdt">
+The unit price to be declared by
+you will be
+</td>
+<td class="tdr tdb">470</td>
+<td class="tdr tdb">940.00</td>
+</tr>
+
+</table>
+
+<p class="p2">“The difference between the above prices and those stipulated
 in the official contract are satisfactorily explained by shipping
 expenses, etc.</p>
 
@@ -9414,7 +9465,7 @@ to preserve the symbol of our political and economic democracy.</p>
 
 
   <h2 class="nobreak" id="APPENDIX_I">
-    APPENDIX I
+    <span class="xsmall">APPENDIX I</span>
     <br>
     <i>Recent Cases</i>
   </h2>
@@ -9668,7 +9719,7 @@ of trial requested by War and Navy Departments.</p>
 
 
   <h2 class="nobreak" id="APPENDIX_II">
-    APPENDIX II
+    <span class="xsmall">APPENDIX II</span>
     <br>
     <i>Bibliography</i>
   </h2>
@@ -9882,7 +9933,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Alig Agreement, <a href="#Page_222">222</a></li>
 
-  <li class="indx">Alkasso (See United States Alkali Export Ass’n.), <a href="#Page_193">193</a>, <a href="#Page_199">199–204</a>, <a href="#Page_252">252</a></li>
+  <li class="indx">Alkasso (See <a href="#idx_United_States_Alkali_Export_Assn">United States Alkali Export Ass’n</a>.), <a href="#Page_193">193</a>, <a href="#Page_199">199–204</a>, <a href="#Page_252">252</a></li>
 
   <li class="indx">Allied Chemical and Dye, <a href="#Page_181">181</a>, <a href="#Page_253">253</a></li>
 
@@ -9960,7 +10011,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Bausch, Dr. Edward, <a href="#Page_154">154</a>, <a href="#Page_165">165</a>, <a href="#Page_166">166</a>, <a href="#Page_170">170</a>, <a href="#Page_171">171</a></li>
 
-  <li class="indx">Bayer, <a href="#Page_205">205</a> (See Germanin), <a href="#Page_55">55</a></li>
+  <li class="indx"><span id="idx_Bayer">Bayer</span>, <a href="#Page_205">205</a> (See <a href="#idx_Germanin">Germanin</a>), <a href="#Page_55">55</a></li>
 
   <li class="indx">Bayer Co., Inc., <a href="#Page_256">256</a></li>
 
@@ -9968,7 +10019,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Belgian Congo, <a href="#Page_1">1</a></li>
 
-  <li class="indx">Belgian Solvay (See Solvay et Cie), <a href="#Page_202">202–204</a></li>
+  <li class="indx">Belgian Solvay (See <a href="#idx_Solvay_et_Cie">Solvay et Cie</a>), <a href="#Page_202">202–204</a></li>
 
   <li class="indx">Bell Laboratories, <a href="#Page_21">21</a></li>
 
@@ -10052,7 +10103,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Chilean Nitrate Sales Corp., <a href="#Page_253">253</a></li>
 
-  <li class="indx">Chimio (See Les Laboratoires Francais de Chimiotherapie), <a href="#Page_61">61</a>, <a href="#Page_76">76</a></li>
+  <li class="indx"><span id="idx_Chimio">Chimio</span> (See <a href="#idx_Les_Laboratories_Francais_de_Chimiotherapie">Les Laboratoires Francais de Chimiotherapie</a>), <a href="#Page_61">61</a>, <a href="#Page_76">76</a></li>
 
   <li class="indx">Chlorate of potash, <a href="#Page_186">186</a>, <a href="#Page_190">190</a></li>
 
@@ -10060,7 +10111,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Church and Dwight, Inc., <a href="#Page_200">200</a>, <a href="#Page_202">202</a></li>
 
-  <li class="indx">Ciba (Basle) (See Society of Chemical Industry (Basle)), <a href="#Page_61">61</a>, <a href="#Page_72">72–81</a></li>
+  <li class="indx">Ciba (Basle) (See <a href="#idx_Society_of_Chemical_Industry_Basle">Society of Chemical Industry (Basle)</a>), <a href="#Page_61">61</a>, <a href="#Page_72">72–81</a></li>
 
   <li class="indx">Ciba Pharmaceutical Products, Inc., <a href="#Page_72">72</a>, <a href="#Page_254">254</a></li>
 
@@ -10140,7 +10191,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Egeler, Mr., <a href="#Page_28">28</a></li>
 
-  <li class="indx">Ehrlich’s “Magic Bullet” (See Salvarsan), <a href="#Page_47">47</a></li>
+  <li class="indx">Ehrlich’s “Magic Bullet” (See <a href="#idx_Salvarsan">Salvarsan</a>), <a href="#Page_47">47</a></li>
 
   <li class="indx">Eisenhart, M. H., <a href="#Page_165">165</a></li>
 
@@ -10211,7 +10262,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">George, Lloyd, <a href="#Page_5">5</a>, <a href="#Page_6">6</a></li>
 
-  <li class="indx">Germanin (See Bayer 205), <a href="#Page_55">55</a></li>
+  <li class="indx"><span id="idx_Germanin">Germanin</span> (See <a href="#idx_Bayer">Bayer</a> 205), <a href="#Page_55">55</a></li>
 
   <li class="indx">Germany, <a href="#Page_5">5</a>, <a href="#Page_14">14</a>, <a href="#Page_15">15</a>, <a href="#Page_22">22–27</a>, <a href="#Page_33">33</a>, <a href="#Page_62">62</a>,
     <a href="#Page_64">64</a>, <a href="#Page_129">129</a>, <a href="#Page_135">135</a>, <a href="#Page_138">138</a>, <a href="#Page_142">142–147</a>, <a href="#Page_151">151</a>,
@@ -10377,7 +10428,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Latin America, <a href="#Page_12">12</a>, <a href="#Page_13">13</a>, <a href="#Page_68">68–71</a>, <a href="#Page_176">176</a>, <a href="#Page_214">214</a></li>
 
-  <li class="indx">Les Laboratories Francais de Chimiotherapie (See Chimio (France)), <a href="#Page_61">61</a>, <a href="#Page_76">76</a></li>
+  <li class="indx"><span id="idx_Les_Laboratories_Francais_de_Chimiotherapie">Les Laboratories Francais de Chimiotherapie</span> (See <a href="#idx_Chimio">Chimio</a> (France)), <a href="#Page_61">61</a>, <a href="#Page_76">76</a></li>
 
   <li class="indx">Lever Bros., <a href="#Page_105">105</a></li>
 
@@ -10632,7 +10683,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Saegmuller, George, <a href="#Page_144">144</a>, <a href="#Page_147">147</a></li>
 
-  <li class="indx">Salvarsan, <a href="#Page_46">46</a>, <a href="#Page_54">54</a></li>
+  <li class="indx"><span id="idx_Salvarsan">Salvarsan</span>, <a href="#Page_46">46</a>, <a href="#Page_54">54</a></li>
 
   <li class="indx">Samuhi, S. A., <a href="#Page_117">117</a>, <a href="#Page_118">118</a>, <a href="#Page_120">120</a>, <a href="#Page_122">122</a></li>
 
@@ -10668,13 +10719,13 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Societe de Products Chemiques des Terres Rares, <a href="#Page_130">130</a></li>
 
-  <li class="indx">Society of Chemical Industry (Basle), <a href="#Page_61">61</a>, <a href="#Page_72">72</a></li>
+  <li class="indx"><span id="idx_Society_of_Chemical_Industry_Basle">Society of Chemical Industry (Basle)</span>, <a href="#Page_61">61</a>, <a href="#Page_72">72</a></li>
 
   <li class="indx">Soda ash, <a href="#Page_201">201</a></li>
 
   <li class="indx">Soda, caustic, <a href="#Page_201">201</a></li>
 
-  <li class="indx">Solvay et Cie, <a href="#Page_200">200</a>, <a href="#Page_203">203</a>, <a href="#Page_204">204</a></li>
+  <li class="indx"><span id="idx_Solvay_et_Cie">Solvay et Cie</span>, <a href="#Page_200">200</a>, <a href="#Page_203">203</a>, <a href="#Page_204">204</a></li>
 
   <li class="indx">Solvay Process Co., <a href="#Page_200">200</a></li>
 
@@ -10732,9 +10783,9 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">Sullivan, John B., <a href="#Page_114">114</a>, <a href="#Page_116">116</a>, <a href="#Page_119">119</a></li>
 
-  <li class="indx">Svenska Tandsticks Aktiebolaget (See Swedish Match Co.), <a href="#Page_185">185–190</a></li>
+  <li class="indx">Svenska Tandsticks Aktiebolaget (See <a href="#idx_Swedish_Match_Co">Swedish Match Co.</a>), <a href="#Page_185">185–190</a></li>
 
-  <li class="indx">Swedish Match Co. (See Svenska Tandsticks Aktiebolaget), <a href="#Page_185">185–190</a></li>
+  <li class="indx"><span id="idx_Swedish_Match_Co">Swedish Match Co.</span> (See Svenska Tandsticks Aktiebolaget), <a href="#Page_185">185–190</a></li>
 
   <li class="indx">Swiss Bank Corp. (Basle), <a href="#Page_68">68</a>, <a href="#Page_70">70</a>, <a href="#Page_254">254</a></li>
 
@@ -10797,7 +10848,7 @@ World,” <i>Foreign Affairs</i>, v. 20, 1941.</p>
 
   <li class="indx">United Nations, <a href="#Page_16">16</a>, <a href="#Page_20">20</a>, <a href="#Page_33">33</a>, <a href="#Page_175">175</a>, <a href="#Page_247">247</a></li>
 
-  <li class="indx">United States Alkali Export Ass’n, <a href="#Page_193">193</a>, <a href="#Page_199">199</a>, <a href="#Page_201">201–204</a>, <a href="#Page_252">252</a></li>
+  <li class="indx"><span id="idx_United_States_Alkali_Export_Assn">United States Alkali Export Ass’n</span>, <a href="#Page_193">193</a>, <a href="#Page_199">199</a>, <a href="#Page_201">201–204</a>, <a href="#Page_252">252</a></li>
 
   <li class="indx">United States Army, <a href="#Page_143">143</a>, <a href="#Page_147">147</a>, <a href="#Page_158">158</a>, <a href="#Page_160">160</a>, <a href="#Page_166">166</a></li>
 

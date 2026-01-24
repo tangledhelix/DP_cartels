@@ -15,19 +15,19 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [x] This book uses a long ellipsis between other elements to indicate an omission? They are treated as `<tb>`.
-* [ ] Chapter headers are partly in italic text?
+* [x] Chapter headers are partly in italic text?
 * [x] Some use of `c` to mean `cents`. Replace with `¢`? PM is OK with it.
-* [ ] 005: right-justified signature
-* [ ] 006: ToC
-* [ ] 099: use of subscript `_{}` notation
-* [ ] 143: blockquote either in smallcaps or smaller all-caps font
-* [ ] 144: blockquote either in smallcaps or smaller all-caps font
-* [ ] 154: (HTML) abbr "represt." short for "representative"
-* [ ] 170: table
-* [ ] 171: left/center/right justified line? how to handle?
+* [x] 005: right-justified signature
+* [x] 006: ToC
+* [x] 099: use of subscript `_{}` notation
+* [x] 143: blockquote either in smallcaps or smaller all-caps font
+* [x] 144: blockquote either in smallcaps or smaller all-caps font
+* [x] 154: (HTML) abbr "represt." short for "representative"
+* [x] 170: table
+* [x] 171: left/center/right justified line? how to handle?
     * left justify but add padding spaces? no table...
     * 2 occurrences on this page
-* [ ] 267-278: index
+* [x] 267-278: index
 
 ### Project manager notes ###
 

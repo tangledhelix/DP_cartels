@@ -5816,7 +5816,7 @@ to do but upon reflection I thought it best for him to
 come here as the various instruments in which they are interested
 are here. He assented to this and was to come yesterday
 but was taken sick so in place sent his aid, Lieut. Culbert, U.
-S. N., who was also accompanied by the Military represt. of the
+S. N., who was also accompanied by the Military <abbr title="representative">represt.</abbr> of the
 Am. Commission. What the Navy wants at once are: [enumerating
 range-finders, periscopes, sights and other similar
 instruments].</p>
@@ -6493,11 +6493,14 @@ omission of this provision from the agreement of 1926 did not
 mean a change in policy is clearly shown by the following
 memoranda exchanged by two Bausch and Lomb officials:</p>
 
-<p>
-  “From: <abbr>Mr.</abbr> M. H. Eisenhart      Date: <abbr title="January">Jan.</abbr> 11, 1927.
+<p style="float:left">
+  “From: <abbr>Mr.</abbr> M. H. Eisenhart
+</p>
+<p style="float:right">
+  Date: <abbr title="January">Jan.</abbr> 11, 1927.
 </p>
 
-<p>“To: <abbr>Mr.</abbr> Edw. Bausch.</p>
+<p style="clear:both">“To: <abbr>Mr.</abbr> Edw. Bausch.</p>
 
 <p>“I have read the following paragraph in August Lomb’s letter
 of December 20, 1926:</p>
@@ -6518,11 +6521,17 @@ procedure, I think we want to be sure of the definite understanding.”</p>
 
 <hr class="tb">
 
-<p>
-  “From: <abbr>Mr.</abbr> E. Bausch      Reply      Date: <abbr title="January">Jan.</abbr> 27, 1927.
+<p style="float:left;">
+  “From: <abbr>Mr.</abbr> E. Bausch
+</p>
+<p style="float:left;margin-left:1.3em;">
+Reply
+</p>
+<p style="float:right;">
+  Date: <abbr title="January">Jan.</abbr> 27, 1927.
 </p>
 
-<p>“To: <abbr>Mr.</abbr> M. H. Eisenhart</p>
+<p style="clear:both;">“To: <abbr>Mr.</abbr> M. H. Eisenhart</p>
 
 <p>“It is my understanding, in accordance with the opinion of
 Carl Lomb, that we are not to bid on any military instruments

@@ -27,6 +27,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 171: left/center/right justified line? how to handle?
     * left justify but add padding spaces? no table...
     * 2 occurrences on this page
+    * [ ] This doesn't lay out as well as I hoped; it's fine in browsers but the Kindle does weird stuff like the left float is centered and then the right float is below it and to the right? The displacement is normal depending on the viewport width but why is the left float centered??
 * [x] 267-278: index
 
 ### Project manager notes ###

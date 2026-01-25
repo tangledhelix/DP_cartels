@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <meta name="format-detection" content="url=no">
     <title>
       Cartels: Challenge to a Free World | Project Gutenberg
     </title>
@@ -144,15 +149,6 @@ abbr {
 }
 /* abbrs that should be read letter-by-letter */
 abbr.spell { speak: spell-out; }
-
-/* "gray bar" blockquotes */
-blockquote {
-    border-left: .15em solid #c8c8c8;
-    padding-left: .7em;
-    margin-left: 4%;
-    margin-right: 8%;
-}
-
     </style>
 </head>
 <body>
@@ -10684,7 +10680,7 @@ World,” <cite>Foreign Affairs</cite>, <abbr title="volume">v.</abbr> 20, 1941.
 
   <li class="indx">Titanium Pigment <abbr title="Company">Co.</abbr>, <a href="#Page_126">126–130</a></li>
 
-  <li class="indx">Titan Kogyo Kaisha, <abbr title="Limited">Ltd.</abbr> <a href="#Page_135">135</a>, <a href="#Page_136">136</a></li>
+  <li class="indx">Titan Kogyo Kaisha, <abbr title="Limited">Ltd.</abbr>, <a href="#Page_135">135</a>, <a href="#Page_136">136</a></li>
 
   <li class="indx">Titus, <abbr>Dr.</abbr> Harry, <a href="#Page_109">109</a></li>
 

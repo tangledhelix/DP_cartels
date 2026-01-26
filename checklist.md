@@ -472,13 +472,13 @@ Don't necessarily have to do *all* of these, but these are what I have.
   * [x] Kindle Previewer (epub3)
   * [x] Calibre (epub3)
 * [ ] Phone
-  * [ ] Apple Books (iPhone)
-  * [ ] Kindle (iPhone)
-* [ ] Tablet
-  * [ ] Kindle (Android)
-  * [ ] Google Play Books - Android (Dropbox)
+  * [x] Apple Books (iPhone)
+  * [x] Kindle (iPhone)
+* [x] Tablet
+  * [x] Kindle (Android)
+  * [x] Google Play Books - Android (Dropbox)
 * [ ] E-ink
-  * [ ] Kobo Libra Colour
+  * [x] Kobo Libra Colour
   * [ ] Kindle Colorsoft
 
 </details>

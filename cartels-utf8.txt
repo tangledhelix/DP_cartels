@@ -6,7 +6,7 @@
 
 
 This file uses _underscores_ to indicate italic text. Small capitals
-changed to all capitals. Subscripts are indicated with: D_{3}
+changed to all capitals.
 
 
 
@@ -3103,9 +3103,9 @@ exclusive hold on the synthetic Vitamin D field that undoubtedly they
 would be very much interested.”
 
 Thus, in spite of the acknowledged physiological superiority of Vitamin
-D_{3}, the Foundation was reluctant to do any research whatever unless
-the willingness and cooperation of the licensees showed a definite
-promise of substantial profits.
+D₃, the Foundation was reluctant to do any research whatever unless the
+willingness and cooperation of the licensees showed a definite promise
+of substantial profits.
 
 The effect of the licensing policy on the research activities of
 licensees is explained in a letter from Kupperian of Acetol to Waddell,

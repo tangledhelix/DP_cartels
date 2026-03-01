@@ -115,6 +115,8 @@ p. 90: changed “Fleischman” to “Fleischmann” (irradiated yeast from Flei
 
 p. 109: changed “moxed” to “mixed” (tons of commercial mixed feed)
 
+p. 115: changed “Tanning” to “Tannin” (The Tannin Corporation imports approximately)
+
 p. 117: changed “Lo” to “La” (cooperated closely with La Forestal)
 
 p. 127: changed “Jebson” to “Jebsen” (National Lead and Jebsen organized)
@@ -165,5 +167,91 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 * [x] iPad simulator
 
 ### Ebook review ###
+
+Abbreviations to check, noted in self-SR:
+* [x] `5×`
+* [x] `6×`
+* [x] `A.G.`
+* [x] `A.M.A.`
+* [x] `A/S`
+* [x] `acc't`
+* [x] `Am.`
+* [x] `Ass'n.`
+* [x] `Assn.`
+* [x] `Ave.`
+* [x] `Bros.`
+* [x] `C-I-L`
+* [x] `c/o`
+* [x] `Ca`
+* [x] `Capt.`
+* [x] `cent.`
+* [x] `Cia.`
+* [x] `Co.`
+* [x] `Comdr.`
+* [x] `Corp,`
+* [x] `Corp.`
+* [x] `CPC`
+* [x] `D.E.N.`
+* [x] `DAG`
+* [x] `DEN`
+* [x] `Dela.`
+* [x] `Dept.`
+* [x] `Drs.`
+* [x] `Edw.` (Edward)
+* [x] `f.o.b.`
+* [x] `ft.`
+* [x] `G.E.`
+* [x] `G.m.b.H.`
+* [x] `I.C.I.`
+* [x] `i.e.`
+* [x] `I.P.C.`
+* [x] `I`
+* [x] `ICI`
+* [x] `II`
+* [x] `III`
+* [x] `Inc.`
+* [x] `inst.`
+* [x] `IX`
+* [x] `Jr.`
+* [x] `La.`
+* [x] `Lieut.`
+* [x] `Ltd.`
+* [x] `Ltda.`
+* [x] `m. b. H.`
+* [x] `Messrs.`
+* [x] `Mich.`
+* [x] `Mil.`
+* [x] `N.J.`
+* [x] `N.R.A.`
+* [x] `N.Y.`
+* [x] `No.`
+* [x] `Nos.`
+* [x] `Nr.`
+* [x] `Opt.`
+* [x] `Pa.`
+* [x] `Par.`
+* [x] `Penn.`
+* [x] `Prof.`
+* [x] `R.F.`
+* [x] `rec'd`
+* [x] `represt.`
+* [x] `St.`
+* [x] `T.N.E.C.`
+* [x] `U. S. A.`
+* [x] `U.S.`
+* [x] `U.S.N.`
+* [x] `U.S.P.`
+* [x] `U.S.P.A.`
+* [x] `v.`
+* [x] `V`
+* [x] `VII`
+* [x] `viz.`
+* [x] `WPA`
+* [x] `X`
+* [x] `XII`
+* [x] `XIII`
+* [x] `XVII`
+* [x] `XVIII`
+* [x] `XX`
 
 ### Smooth Reading ###

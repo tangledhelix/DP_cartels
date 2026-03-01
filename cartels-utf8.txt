@@ -3618,7 +3618,7 @@ since Standard Brands had rights in this field, it was essential that
 the Standard Brands competition be eliminated. In the agreement of
 February 1, 1939, the Foundation agreed to pay Standard Brands 40% of
 the profits derived by the Foundation from the sale of concentrates in
-return for Standard Brands’ withdrawal and agreement not to, compete.
+return for Standard Brands’ withdrawal and agreement not to compete.
 
 Vitamin D is of the utmost importance in the poultry industry since
 it is essential for the prevention and cure of rickets and for bone
@@ -3830,7 +3830,7 @@ Forestal of England owns substantially all of the stock of Tannin
 Products Corporation, a Delaware corporation, which in turn owns all
 the capital stock of The Tannin Corporation, a New York corporation.
 
-The Tanning Corporation imports approximately 70 per cent of all
+The Tannin Corporation imports approximately 70 per cent of all
 quebracho extract consumed in the United States. The Tannin Corporation
 has been controlled by Forestal of England since 1913 and during the
 past thirty years its controlling officials have been completely
@@ -8466,7 +8466,7 @@ Nations publication.)
 
   Animal Industries Bureau, 109
 
-  Antitrust Division of Dept, of Justice, 35, 83
+  Antitrust Division of Dept. of Justice, 35, 83
 
   Antitrust laws, 38, 48, 58, 77, 130, 154, 176, 198, 205, 250, 251
 
@@ -9419,6 +9419,9 @@ p. 90: changed “Fleischman” to “Fleischmann” (irradiated yeast from
 Fleischmann)
 
 p. 109: changed “moxed” to “mixed” (tons of commercial mixed feed)
+
+p. 115: changed “Tanning” to “Tannin” (The Tannin Corporation imports
+approximately)
 
 p. 117: changed “Lo” to “La” (cooperated closely with La Forestal)
 
